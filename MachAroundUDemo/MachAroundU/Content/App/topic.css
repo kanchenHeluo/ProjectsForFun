@@ -1,0 +1,33 @@
+﻿input#editspan 
+{
+	border: 0px;
+}
+
+div.topicMap div dl.dl-horizontal dd {
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+div.topicMap div .dl-horizontal dt {
+    width: 80px;
+    margin-top: 10px;
+}
+
+div.topicMap div dl.dl-horizontal dd input {
+    margin-bottom: 10px;
+}
+
+.map {
+    padding: 5px 0 5px 100px;
+}
+.input-group .form-control{
+    width:245px;
+}
+
+@media (max-width:992px) {
+.map {
+    padding: 10px 0 5px 0px!important;
+}
+}
+
+

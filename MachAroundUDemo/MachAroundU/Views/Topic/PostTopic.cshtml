@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "Post Topic";
+}
+
+<div class="jumbotron" style="height: 70px;">
+    <h3 style="font-family:cursive;margin-top:-25px; color:darkcyan;font-weight:600">Come on ! <br />Post your topic !</h3>
+</div>
+
+<div class="row topicMap" ng-controller="postTopicCtrl">
+    <div class="col-md-3">        
+        <dl class="dl-horizontal">
+            <dt style="text-align:left">Title:</dt>
+            <dd><input type="text" ng-model="topic.title" placeholder="title of your topic" style="width:190px" /></dd>
+
+            <dt style="text-align:left">Describe:</dt>
+            <dd><textarea rows="3" ng-model="topic.description" placeholder="describe your topic" style="width:190px"></textarea></dd>
+
+            <dt style="text-align:left">Location:</dt>
+
+            <dd style="width:190px">
+                <input type="text" ng-model="topic.location.latitude" placeholder="latitude" style="width:45%;float:left" />
+                <input type="text" ng-model="topic.location.longitude" placeholder="longitude" style="width:45%;float:right" />                
+                <input id="editspan" ng-model="topic.location.locationAddr" type="text"/>
+            </dd>
+        </dl>
+        <dl>
+            <dd>
+                <label>From:</label>
+                <ck-datepicker ng-model="topic.startTime" style="width:245px"></ck-datepicker>
+                <ck-hour-min hour="topic.start.startHour" minute="topic.start.startMin"></ck-hour-min>
+                <br />
+                <label>To:</label>
+                <ck-datepicker ng-model="topic.endTime" style="width:245px"></ck-datepicker>
+                <ck-hour-min hour="topic.end.endHour" minute="topic.end.endMin"></ck-hour-min>
+            </dd>
+
+            <dt>Contact:</dt>
+            <dd><input type="text" ng-model="topic.organizor.email" style="width:285px" /></dd>
+        </dl>
+        <input type="button" class="btn btn-default" value="Post" ng-click="post()" />
+    </div>
+    <div class="col-md-9 map">
+
+        <span style="color:darkgrey; margin-top:10px">Click/Search to select a location:</span>
+        <input type="search" results="s" ng-model="searchTerm"/> <input type="button" value="Search" ng-click="searchTermBingMap()"/>
+        <div id="myPostMap" style="position: relative; width: 750px; height: 400px; margin-top:25px" ng-init="init();"></div>
+    </div>
+</div>

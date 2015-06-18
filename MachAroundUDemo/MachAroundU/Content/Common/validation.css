@@ -1,0 +1,6 @@
+﻿.required:before
+{
+	content: '*';
+	padding: 5px;
+	color: #FF0000;
+}

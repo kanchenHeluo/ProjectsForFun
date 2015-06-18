@@ -1,0 +1,118 @@
+﻿@{
+    ViewBag.Title = "View Topic";
+}
+
+<!DOCTYPE html>
+
+<div class="jumbotron" style="height: 10px;">
+    <h3 style="font-family:cursive;margin-top:-20px; color:darkcyan;font-weight:600">Find hot topics !</h3>
+</div>
+
+
+<div class="row topicMap" ng-controller="viewTopicCtrl">
+    <div class="col-md-3" style="margin-top:40px">
+        <dl class="dl-horizontal">
+            <dt style="text-align:left">Key Work:</dt>
+            <dd><input style="width:190px" type="text" ng-model="searchTopicCriteria.keyword" placeholder="title of your topic" /></dd>
+
+            <dt style="text-align:left">Location:</dt>
+            <dd style="width:190px">
+                <input type="text" ng-model="searchTopicCriteria.location.latitude" placeholder="latitude" style=" float:left;width:45%" />
+                <input type="text" ng-model="searchTopicCriteria.location.longitude" placeholder="longitude" style="float:right;width:45%" />
+            </dd>
+            <dt style="text-align:left">Distance:</dt>
+            <dd>
+                <select ng-model="searchTopicCriteria.location.distance">
+                    <option value="3">3</option>
+                    <option value="5">5</option>
+                    <option value="10">10</option>
+                    <option value="100">100</option>
+                    <option value="5000">5000</option>
+                </select>
+                KM
+            </dd>
+        </dl>
+        <dl style="margin-top:30px">
+
+            <dd>
+                <label>From:</label>
+                <ck-datepicker ng-model="searchTopicCriteria.timeSpan.startTime"></ck-datepicker>
+                <ck-hour-min hour="searchTopicCriteria.timeSpan.start.startHour" minute="searchTopicCriteria.timeSpan.start.startMin"></ck-hour-min>
+                <br />
+                <label>To:</label>
+                <ck-datepicker ng-model="searchTopicCriteria.timeSpan.endTime"></ck-datepicker>
+                <ck-hour-min hour="searchTopicCriteria.timeSpan.end.endHour" minute="searchTopicCriteria.timeSpan.end.endMin"></ck-hour-min>
+            </dd>
+
+
+        </dl>
+        <input type="button" style="margin-top:40px" class="btn btn-default" value="Search" ng-click="searchTopics()" />
+    </div>
+    <div class="col-md-9 map">
+        <ul class="nav nav-tabs">
+            <li role="presentation"><a href="javascript:void(0)" ng-click="map.show=true; list.show=false;">Map</a></li>
+            <li role="presentation"><a href="javascript:void(0)" ng-click="map.show=false; list.show=true;">List</a></li>
+        </ul>
+        <div ng-show="map.show">
+            <input type="search" results="s" ng-model="searchTerm" /> <input type="button" value="Search" ng-click="searchTermBingMap()" />
+            <div id="myMap" style="position: relative; width: 750px; height: 400px; margin-top:25px" ng-init="init();">
+            </div>
+        </div>
+
+        <div ng-show="list.show">
+            <table>
+                <tbody>
+                    <tr ng-repeat="topic in topics" ng-if="$index >= (pageInfo.detailPage.currentPage - 1) * pageInfo.detailPage.itemsPerPage && $index < pageInfo.detailPage.currentPage * pageInfo.detailPage.itemsPerPage">
+                        <td>
+                            <dl class="dl-horizontal">
+                                <dt>
+                                    <img src={{topic.iconId}} />
+                                </dt>
+                                <dd>
+                                    <label>{{topic.Title}}</label>
+                                    <p>{{topic.Description}}</p>
+                                    <a href="javascript:void(0)" ng-click="openTopicDetail($index)">View Detail</a>
+                                    <a style="margin-left:10px" href="javascript:void(0)" ng-click="addLike($index)"><img src="~/Content/Images/zan.png" />{{topic.UpCnts}}</a>                                    
+                                </dd>
+                            </dl>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <ck-pagination op-cur-page="pageInfo.detailPage.currentPage" op-total-item="topics.length" op-page-interval="pageInfo.detailPage.pageInterval" op-item-per-page="pageInfo.detailPage.itemsPerPage" />
+        </div>
+    </div>
+    <div style="clear:both"></div>
+
+    <script type="text/ng-template" id="myModalContent.html">
+        <div class="modal-header">
+            <h3 class="modal-title">{{item.Title}}</h3>
+        </div>
+        <div class="modal-body">
+            <ul>
+                <li>
+                    <p>{{item.Description}}</p>
+                </li>
+                <li>
+                    <label>Location:</label>
+                    <span>{{item.Location.Latitude}},{{item.Location.Longitude}}</span>
+                    <br />
+                    <span>{{item.Location.LocationAddr}}</span>
+                </li>
+                <li>
+                    <label>Time:</label>
+                    <span>{{item.STime}}-{{item.ETime}}</span>
+                </li>
+                <li>
+                    <p>{{item.Organizor.EmailAddr}}</p>
+                    <a href="mailto:{{item.Organizor.EmailAddr}}">email me here!</a>
+                </li>
+
+            </ul>
+        </div>
+        <div class="modal-footer">
+            <button class="btn btn-primary" ng-click="ok()">OK</button>
+            <button class="btn btn-warning" ng-click="cancel()">Cancel</button>
+        </div>
+    </script>
+</div>

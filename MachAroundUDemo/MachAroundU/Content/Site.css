@@ -1,0 +1,93 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input {
+    max-width:300px;
+}
+select,
+textarea {
+    max-width: 280px;
+}
+.navbar-sitename {
+    text-align: center;
+    color:white;
+    
+    display:table-cell;
+}
+.navbar-fixed-top {
+
+    margin-bottom:20px!important;
+    font-family:cursive;
+    font-size:18px;
+    background-color:#2d2d2d;
+    border-color:#2d2d2d;
+}
+.navbar-button {
+    display: table-cell;
+    width: 10%;
+}
+
+.navbar-toggle {
+    margin-bottom:0px;
+    float:none!important;
+}
+.navbar-header {
+    margin-top:2px;
+}
+
+@media (min-width: 1500px) {
+    .navbar-header {
+    margin-left:-150px!important;
+}
+}
+.navbar-nav {
+    margin-left:-15px !important;
+}
+
+input,textarea {
+    font-family:"Microsoft YaHei",Tahoma,Verdana,SimSun;
+    padding-top:4px;
+    padding-right:4px;
+    padding-bottom:4px;
+    padding-left:4px;
+    border-top-color:#ccc;
+    border-right-color:#ccc;
+    border-bottom-color:#ccc;
+    border-left-color:#ccc;
+    border-top-style:solid;
+    border-right-style:solid;
+    border-bottom-style:solid;
+    border-left-style:solid;
+     border-top-left-radius:5px;
+    border-top-right-radius:5px;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+}
+select {
+     font-family:"Microsoft YaHei",Tahoma,Verdana,SimSun;
+   
+    border-top-left-radius:3px;
+    border-top-right-radius:3px;
+    border-bottom-left-radius:3px;
+    border-bottom-right-radius:3px;
+}
+
+footer{
+    text-align: center;
+}

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachAroundU", "MachAroundU\MachAroundU.csproj", "{A66DA086-866E-4E3D-8BA6-B21AEB934BF4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{51FC89D9-B5E0-49C2-9365-5C730185EA7C}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gorzService", "gorzService\gorzService.csproj", "{EBAF4F10-0262-4E4E-904A-09742073F9A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A66DA086-866E-4E3D-8BA6-B21AEB934BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66DA086-866E-4E3D-8BA6-B21AEB934BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66DA086-866E-4E3D-8BA6-B21AEB934BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66DA086-866E-4E3D-8BA6-B21AEB934BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBAF4F10-0262-4E4E-904A-09742073F9A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAF4F10-0262-4E4E-904A-09742073F9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAF4F10-0262-4E4E-904A-09742073F9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAF4F10-0262-4E4E-904A-09742073F9A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

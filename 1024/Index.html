@@ -1,0 +1,57 @@
+<html ng-app="ckApp">
+<head>
+	<meta charset="utf-8">
+	<title>Test Site</title>
+	
+	<script src="js/jquery-2.1.3.js" ></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/angular.js" ></script>
+	
+
+	<script src="js/app/app.js"></script>
+	<script src="js/app/controller/game1024Ctrl.js"></script>	
+
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/1024.css">
+</head>
+	<body>	
+	<div ng-controller="game1024Ctrl" ng-keydown="keydown($event)" tabindex="0">
+	    <div class="jumbotron">
+	        <h1>Welcome To Game 1024!</h1>
+	        <p class="lead">This is a game for 1024 lovers.</p>
+	    </div>
+	    <div class="overall-container">
+	        <div style="float:left" class="col-md-4">
+	            <form name="game1024">
+	                <label required>scale:</label>
+	                <input type="text" ng-model="settingInfo.scale" style="width:50px" name="cubic scale"/>
+	                <br />
+	                <label>Blocked?</label>
+	                <input type="checkbox" ng-model="settingInfo.blocked" />
+	                <br />
+	                <div ng-if="settingInfo.blocked">
+	                    <label required>how many blocked would you like:</label>
+	                    <input type="text" ng-model="settingInfo.blockedNumber" name="block number"/>
+	                </div>
+	                <br />
+	                <label>score:<span>{{settingInfo.score}}</span></label>
+	                <br />
+	                <input type="button" value="New Game" class="btn btn-warning" ng-click="init();" />
+	            </form>
+	        </div>
+	        <div class="cubics-container col-md-4">
+	            <div class="cubic-row" ng-repeat="item in items">
+	                <div ng-repeat="_item in items" style="float:left">
+	                    <input type="button" id="{{$parent.$index*settingInfo.scale + $index + 1}}" class="btn btn-default" ng-class="cubics[$parent.$index*settingInfo.scale + $index + 1].classVal" value="{{cubics[$parent.$index*settingInfo.scale + $index + 1].textVal}}"></input>
+	                </div>
+	                <div style="clear:both"></div>
+	            </div>
+	        </div>
+	        <div class="col-md-4">
+
+	        </div>
+	    </div>
+	    <div style="clear:both"></div>
+	</div>
+</body>
+</html>

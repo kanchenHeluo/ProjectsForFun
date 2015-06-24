@@ -1,0 +1,66 @@
+
+.cubics-container {
+    background-color: #e6e6fa;
+    border: rgb(220,220,220) solid 4px;
+    height: auto;
+    padding: 3px;
+    width: auto;
+    border-radius: 10px;
+    float: left;
+    margin-right: 50px;
+}
+
+.cubic-row {
+    border: rgb(230,230,230) solid 2px;
+    border-radius: 3px;
+    height: 99px;
+}
+.cubic-row input {
+    width: 92px;
+    height: 92px;
+    color: black;
+    margin-left: 2px;
+    margin-right: 2px;
+    font-size: 50px !important;
+    border: rgb(200, 200, 200) solid;
+    border-radius: 5px;
+    background-color: gainsboro;
+}
+
+.cubic-row input.class_common{
+    background-color: gainsboro;
+}
+
+.cubic-row input.class_block{
+    background-color: rgb(80,80,80);
+    color: rgb(80,80,80);
+}
+
+
+input.class_val_2 { background-color: rgb(255, 166, 80); }
+input.class_val_4 { background-color: rgb(215, 136, 65); }
+input.class_val_8 { background-color: rgb(200, 146, 50); }
+input.class_val_16 { background-color: rgb(195, 116, 50); }
+input.class_val_32 { background-color: rgb(175, 106, 40);}
+input.class_val_64 { background-color: rgb(155, 96, 30);}
+input.class_val_128 { background-color:rgb(135, 96, 20); }
+input.class_val_256 { background-color:rgb(115, 96, 10); }
+input.class_val_512 { background-color:rgb(95, 86, 0); }
+input.class_val_1024 { background-color: rgb(75, 76, 0); }
+input.class_val_2096 { background-color: rgb(55, 56, 0); }
+input.class_val_4192 { background-color: rgb(30, 36, 0); }
+input.class_val_8384 { background-color: rgb(0, 0, 0); }
+
+/*angular animate*/
+.animate-enter, .animate-leave {
+transition: 500ms ease-in all;
+position: relative;
+display: block;
+} 
+.animate-enter.animate-enter-active, .animate-leave {
+left: 0;
+}
+.animate-leave.animate-leave-active, .animate-enter {
+left: 500px;
+}
+

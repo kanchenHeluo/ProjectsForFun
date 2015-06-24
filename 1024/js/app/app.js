@@ -1,0 +1,1 @@
+var ckApp = angular.module('ckApp',[]);

@@ -1,0 +1,6 @@
+﻿2014-08-15 07:56:59.306	[Verbose]	Logger created.
+2014-08-15 07:56:59.307	[Information]	Initializing.
+2014-08-15 07:56:59.307	[Verbose]	Creating shell.
+2014-08-15 07:56:59.307	[Verbose]	Starting shell.
+2014-08-15 07:56:59.308	[Verbose]	Creating robot.
+2014-08-15 07:56:59.309	[Information]	Initialized.

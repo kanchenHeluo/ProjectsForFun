@@ -1,0 +1,10 @@
+C:\robot\EcitAssistantRobot\EcitAssistantRobot\bin\Debug\EcitAssistantRobot.exe
+C:\robot\EcitAssistantRobot\EcitAssistantRobot\bin\Debug\EcitAssistantRobot.pdb
+C:\robot\EcitAssistantRobot\EcitAssistantRobot\bin\Debug\Microsoft.Lync.Model.dll
+C:\robot\EcitAssistantRobot\EcitAssistantRobot\bin\Debug\Microsoft.Office.Uc.dll
+C:\robot\EcitAssistantRobot\EcitAssistantRobot\bin\Debug\Microsoft.Lync.Model.xml
+C:\robot\EcitAssistantRobot\EcitAssistantRobot\obj\Debug\Microsoft.Ecit.China.Tools.EcitAssistantRobot.LyncShell.LyncCredentialDialog.resources
+C:\robot\EcitAssistantRobot\EcitAssistantRobot\obj\Debug\EcitAssistantRobot.csproj.GenerateResource.Cache
+C:\robot\EcitAssistantRobot\EcitAssistantRobot\obj\Debug\EcitAssistantRobot.exe
+C:\robot\EcitAssistantRobot\EcitAssistantRobot\obj\Debug\EcitAssistantRobot.pdb
+C:\robot\EcitAssistantRobot\EcitAssistantRobot\obj\Debug\EcitAssistantRobot.csprojResolveAssemblyReference.cache

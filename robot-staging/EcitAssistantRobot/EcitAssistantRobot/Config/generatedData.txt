@@ -1,0 +1,440 @@
+﻿Who is Jenny Jiang	Jenny Jiang is a Female, GPM from SiChuang, Chongqin, China. 
+Where is Jenny Jiang from?	Jenny Jiang is from SiChuang, Chongqin, China.
+What is the title of Jenny Jiang	Jenny Jiang is a GPM in ECIT.
+What projects have Jenny Jiang done?	Jenny Jiang was on project Global Migration, HRStaffing, MDS, EBI.
+What projects is Jenny Jiang working on?	Jenny Jiang is doing project Gallacake.
+What projects have Jenny Jiang worked on?	Jenny Jiang was on project Global Migration, HRStaffing, MDS, EBI.
+What projects is Jenny Jiang currently on?	Jenny Jiang is doing project Gallacake.
+Who does Jenny Jiang report to?	Jenny Jiang reports to Paul.H.
+What do you think of Tommy Liu?	Tommy Liu is a good Senior Dev Leader! I really appreciate it.
+How long has Tommy Liu been working for microsoft?	Tommy Liu has been working for almost 4 years and 6 months in microsoft.
+How long has Tommy Liu been in microsoft?	Tommy Liu has been working for almost 4 years and 6 months in microsoft.
+Who is Tommy Liu	Tommy Liu is a Male, Senior Dev Leader from Wuhan, Hubei, China. he is onboarding at 1/13/2011. he was on Gallacake. 
+Where is Tommy Liu from?	Tommy Liu is from Wuhan, Hubei, China.
+What is the title of Tommy Liu	Tommy Liu is a Senior Dev Leader in ECIT.
+What projects have Tommy Liu done?	Tommy Liu was on project Global Migration, HRStaffing, MDS, EBI.
+What projects is Tommy Liu working on?	Tommy Liu is doing project Gallacake.
+What projects have Tommy Liu worked on?	Tommy Liu was on project Global Migration, HRStaffing, MDS, EBI.
+What projects is Tommy Liu currently on?	Tommy Liu is doing project Gallacake.
+When is Tommy Liu onboarding?	Tommy Liu is onboarding 1/13/2011
+How long is Tommy Liu onboarding?	Tommy Liu is onboarding almost 4 years. he is here exactly 1297 days!
+How long Tommy Liu worked for microsoft?	Tommy Liu has been onboarding for almost 4 years and 6 months.
+how long Tommy Liu worked in ecit?	Not sure, but I know Tommy Liu has been onboarding in microsoft for almost 4 years and 6 months.
+Who does Tommy Liu report to?	Tommy Liu reports to Jenny Jiang.
+What do you think of Nakul Madaan?	Nakul Madaan is a good Program Manager, PM2, PMII! I really appreciate it.
+How long has Nakul Madaan been working for microsoft?	Nakul Madaan has been working for almost 7 years and 10 months in microsoft.
+How long has Nakul Madaan been in microsoft?	Nakul Madaan has been working for almost 7 years and 10 months in microsoft.
+Who is Nakul Madaan	Nakul Madaan is a Male, Program Manager, PM2, PMII from Hisar, Haryana, India. he is onboarding at 10/1/2007. he was on Order Convergence. 
+Where is Nakul Madaan from?	Nakul Madaan is from Hisar, Haryana, India.
+What is the title of Nakul Madaan	Nakul Madaan is a Program Manager, PM2, PMII in ECIT.
+Who is the mentee of Nakul Madaan	Ambuj.
+Who is the mentor of Nakul Madaan	Rajesh is mentor of Nakul Madaan.
+whose mentor is Nakul Madaan	Nakul Madaan is the mentor of Ambuj.
+whose mentee is Nakul Madaan	Nakul Madaan's mentor is Rajesh 
+What projects have Nakul Madaan done?	Nakul Madaan was on project EBI, CBI.
+What projects is Nakul Madaan working on?	Nakul Madaan is doing project Order Convergence.
+What projects have Nakul Madaan worked on?	Nakul Madaan was on project EBI, CBI.
+What projects is Nakul Madaan currently on?	Nakul Madaan is doing project Order Convergence.
+When is Nakul Madaan onboarding?	Nakul Madaan is onboarding 10/1/2007
+How long is Nakul Madaan onboarding?	Nakul Madaan is onboarding almost 7 years. he is here exactly 2497 days!
+How long Nakul Madaan worked for microsoft?	Nakul Madaan has been onboarding for almost 7 years and 10 months.
+how long Nakul Madaan worked in ecit?	Not sure, but I know Nakul Madaan has been onboarding in microsoft for almost 7 years and 10 months.
+Who does Nakul Madaan report to?	Nakul Madaan reports to Jenny Jiang.
+Who are the mentees of Nakul Madaan	Ambuj.
+Who is the mentor of Nakul Madaan	Rajesh is mentor of Nakul Madaan.
+What do you think of Lynn Zhu?	Lynn Zhu is a good Senior PM, Program Manager! I really appreciate it.
+How long has Lynn Zhu been working for microsoft?	Lynn Zhu has been working for almost 4 years and 3 months in microsoft.
+How long has Lynn Zhu been in microsoft?	Lynn Zhu has been working for almost 4 years and 3 months in microsoft.
+Who is Lynn Zhu	Lynn Zhu is a Female, Senior PM, Program Manager from JiangSu, China. she is onboarding at 4/29/2011. she was on GallaCake. 
+Where is Lynn Zhu from?	Lynn Zhu is from JiangSu, China.
+What is the title of Lynn Zhu	Lynn Zhu is a Senior PM, Program Manager in ECIT.
+What projects have Lynn Zhu done?	Lynn Zhu was on project EBI, EBMS.
+What projects is Lynn Zhu working on?	Lynn Zhu is doing project GallaCake.
+What projects have Lynn Zhu worked on?	Lynn Zhu was on project EBI, EBMS.
+What projects is Lynn Zhu currently on?	Lynn Zhu is doing project GallaCake.
+When is Lynn Zhu onboarding?	Lynn Zhu is onboarding 4/29/2011
+How long is Lynn Zhu onboarding?	Lynn Zhu is onboarding almost 4 years. she is here exactly 1191 days!
+How long Lynn Zhu worked for microsoft?	Lynn Zhu has been onboarding for almost 4 years and 3 months.
+how long Lynn Zhu worked in ecit?	Not sure, but I know Lynn Zhu has been onboarding in microsoft for almost 4 years and 3 months.
+Who does Lynn Zhu report to?	Lynn Zhu reports to Jenny Jiang.
+What do you think of Lei Lu?	Lei Lu is a good SDET,tester! I really appreciate it.
+How long has Lei Lu been working for microsoft?	Lei Lu has been working for almost 4 years and 3 months in microsoft.
+How long has Lei Lu been in microsoft?	Lei Lu has been working for almost 4 years and 3 months in microsoft.
+Who is Lei Lu	Lei Lu is a Male, SDET,tester from Hubei, China. he is onboarding at 4/18/2011. he was on Gallacake. 
+Where is Lei Lu from?	Lei Lu is from Hubei, China.
+What is the title of Lei Lu	Lei Lu is a SDET,tester in ECIT.
+Who is the mentee of Lei Lu	Tiger.
+Who is the mentor of Lei Lu	Jeremy is mentor of Lei Lu.
+whose mentor is Lei Lu	Lei Lu is the mentor of Tiger.
+whose mentee is Lei Lu	Lei Lu's mentor is Jeremy 
+What projects have Lei Lu done?	Lei Lu was on project MDS, CBI, IPAM.
+What projects is Lei Lu working on?	Lei Lu is doing project Gallacake.
+What projects have Lei Lu worked on?	Lei Lu was on project MDS, CBI, IPAM.
+What projects is Lei Lu currently on?	Lei Lu is doing project Gallacake.
+When is Lei Lu onboarding?	Lei Lu is onboarding 4/18/2011
+How long is Lei Lu onboarding?	Lei Lu is onboarding almost 4 years. he is here exactly 1202 days!
+How long Lei Lu worked for microsoft?	Lei Lu has been onboarding for almost 4 years and 3 months.
+how long Lei Lu worked in ecit?	Not sure, but I know Lei Lu has been onboarding in microsoft for almost 4 years and 3 months.
+Who does Lei Lu report to?	Lei Lu reports to Jenny Jiang.
+Who are the mentees of Lei Lu	Tiger.
+Who is the mentor of Lei Lu	Jeremy is mentor of Lei Lu.
+What do you think of Jason Duan?	Jason Duan is a good SDE,dev! I really appreciate it.
+Who is Jason Duan	Jason Duan is a Male, SDE,dev 
+What is the title of Jason Duan	Jason Duan is a SDE,dev in ECIT.
+What projects is Jason Duan working on?	Jason Duan is doing project Efficiency.
+What projects is Jason Duan currently on?	Jason Duan is doing project Efficiency.
+Who does Jason Duan report to?	Jason Duan reports to Tommy Liu.
+What do you think of Kan Chen?	Kan Chen is a good SDE,MACH,dev! I really appreciate it.
+How long has Kan Chen been working for microsoft?	Kan Chen has been working for 0 year and 3 months in microsoft.
+How long has Kan Chen been in microsoft?	Kan Chen has been working for 0 year and 3 months in microsoft.
+Who is Kan Chen	Kan Chen is a Female, SDE,MACH,dev from Putian,Fujian,China. she is onboarding at 4/10/2014. she was on Order Convergence. 
+Where is Kan Chen from?	Kan Chen is from Putian,Fujian,China.
+What is the title of Kan Chen	Kan Chen is a SDE,MACH,dev in ECIT.
+Who is the mentor of Kan Chen	Tiger ren is mentor of Kan Chen.
+whose mentee is Kan Chen	Kan Chen's mentor is Tiger ren 
+What projects is Kan Chen working on?	Kan Chen is doing project Order Convergence.
+What projects is Kan Chen currently on?	Kan Chen is doing project Order Convergence.
+When is Kan Chen onboarding?	Kan Chen is onboarding 4/10/2014
+How long is Kan Chen onboarding?	Kan Chen is onboarding 0 year. she is here exactly 114 days!
+How long Kan Chen worked for microsoft?	Kan Chen has been onboarding for about 4 months.
+how long Kan Chen worked in ecit?	Not sure, but I know Kan Chen has been onboarding in microsoft for 0 year and 3 months.
+Who does Kan Chen report to?	Kan Chen reports to Jenny Jiang.
+Who is the mentor of Kan Chen	Tiger ren is mentor of Kan Chen.
+What do you think of Justin Li?	Justin Li is a good SDEII,dev! I really appreciate it.
+How long has Justin Li been working for microsoft?	Justin Li has been working for almost 9 years and 1 months in microsoft.
+How long has Justin Li been in microsoft?	Justin Li has been working for almost 9 years and 1 months in microsoft.
+Who is Justin Li	Justin Li is a Male, SDEII,dev from Wuhan, Hubei, China. he is onboarding at 06/30/2006. he was on Gallacake. 
+Where is Justin Li from?	Justin Li is from Wuhan, Hubei, China.
+What is the title of Justin Li	Justin Li is a SDEII,dev in ECIT.
+Who is the mentee of Justin Li	Yanbo Liu, Weiwei Ding.
+Who is the mentor of Justin Li	Karen Toh is mentor of Justin Li.
+whose mentor is Justin Li	Justin Li is the mentor of Yanbo Liu, Weiwei Ding.
+whose mentee is Justin Li	Justin Li's mentor is Karen Toh 
+What projects have Justin Li done?	Justin Li was on project MDS.
+What projects is Justin Li working on?	Justin Li is doing project Gallacake.
+What projects have Justin Li worked on?	Justin Li was on project MDS.
+What projects is Justin Li currently on?	Justin Li is doing project Gallacake.
+When is Justin Li onboarding?	Justin Li is onboarding 06/30/2006
+How long is Justin Li onboarding?	Justin Li is onboarding almost 9 years. he is here exactly 2955 days!
+How long Justin Li worked for microsoft?	Justin Li has been onboarding for almost 9 years and 1 months.
+how long Justin Li worked in ecit?	Not sure, but I know Justin Li has been onboarding in microsoft for almost 9 years and 1 months.
+Who does Justin Li report to?	Justin Li reports to Tommy Liu.
+Who are the mentees of Justin Li	Yanbo Liu, Weiwei Ding.
+Who is the mentor of Justin Li	Karen Toh is mentor of Justin Li.
+What do you think of Yanbo Liu?	Yanbo Liu is a good SDE,dev! I really appreciate it.
+How long has Yanbo Liu been working for microsoft?	Yanbo Liu has been working for almost 3 years and 11 months in microsoft.
+How long has Yanbo Liu been in microsoft?	Yanbo Liu has been working for almost 3 years and 11 months in microsoft.
+Who is Yanbo Liu	Yanbo Liu is a Male, SDE,dev from Beijing, China. he is onboarding at 8/26/2011. he was on Gallacake. 
+Where is Yanbo Liu from?	Yanbo Liu is from Beijing, China.
+What is the title of Yanbo Liu	Yanbo Liu is a SDE,dev in ECIT.
+Who is the mentee of Yanbo Liu	Joanne Shao.
+Who is the mentor of Yanbo Liu	Justin Li is mentor of Yanbo Liu.
+whose mentor is Yanbo Liu	Yanbo Liu is the mentor of Joanne Shao.
+whose mentee is Yanbo Liu	Yanbo Liu's mentor is Justin Li 
+What projects have Yanbo Liu done?	Yanbo Liu was on project MDS.
+What projects is Yanbo Liu working on?	Yanbo Liu is doing project Gallacake.
+What projects have Yanbo Liu worked on?	Yanbo Liu was on project MDS.
+What projects is Yanbo Liu currently on?	Yanbo Liu is doing project Gallacake.
+When is Yanbo Liu onboarding?	Yanbo Liu is onboarding 8/26/2011
+How long is Yanbo Liu onboarding?	Yanbo Liu is onboarding almost 3 years. he is here exactly 1072 days!
+How long Yanbo Liu worked for microsoft?	Yanbo Liu has been onboarding for almost 3 years and 11 months.
+how long Yanbo Liu worked in ecit?	Not sure, but I know Yanbo Liu has been onboarding in microsoft for almost 3 years and 11 months.
+Who does Yanbo Liu report to?	Yanbo Liu reports to Tommy Liu.
+Who are the mentees of Yanbo Liu	Joanne Shao.
+Who is the mentor of Yanbo Liu	Justin Li is mentor of Yanbo Liu.
+What do you think of Weiwei Ding?	Weiwei Ding is a good INTERN! I really appreciate it.
+How long has Weiwei Ding been working for microsoft?	Weiwei Ding has been working for 0 year and 1 months in microsoft.
+How long has Weiwei Ding been in microsoft?	Weiwei Ding has been working for 0 year and 1 months in microsoft.
+Who is Weiwei Ding	Weiwei Ding is a Male, INTERN from Zhejiang, China. he is onboarding at 6/24/2014. he was on Efficiency. 
+Where is Weiwei Ding from?	Weiwei Ding is from Zhejiang, China.
+What is the title of Weiwei Ding	Weiwei Ding is a INTERN in ECIT.
+Who is the mentor of Weiwei Ding	Justin Li is mentor of Weiwei Ding.
+whose mentee is Weiwei Ding	Weiwei Ding's mentor is Justin Li 
+What projects is Weiwei Ding working on?	Weiwei Ding is doing project Efficiency.
+What projects is Weiwei Ding currently on?	Weiwei Ding is doing project Efficiency.
+When is Weiwei Ding onboarding?	Weiwei Ding is onboarding 6/24/2014
+How long is Weiwei Ding onboarding?	Weiwei Ding is onboarding 0 year. he is here exactly 39 days!
+How long Weiwei Ding worked for microsoft?	Weiwei Ding has been onboarding for 0 year and 1 months.
+how long Weiwei Ding worked in ecit?	Not sure, but I know Weiwei Ding has been onboarding in microsoft for 0 year and 1 months.
+Who does Weiwei Ding report to?	Weiwei Ding reports to Tommy Liu.
+Who is the mentor of Weiwei Ding	Justin Li is mentor of Weiwei Ding.
+What do you think of Tiger Ren?	Tiger Ren is a good SDE,dev! I really appreciate it.
+How long has Tiger Ren been working for microsoft?	Tiger Ren has been working for almost 4 years and 4 months in microsoft.
+How long has Tiger Ren been in microsoft?	Tiger Ren has been working for almost 4 years and 4 months in microsoft.
+Who is Tiger Ren	Tiger Ren is a Male, SDE,dev from Wuhan, Hubei, China. he is onboarding at 3/31/2011. he was on Efficiency. 
+Where is Tiger Ren from?	Tiger Ren is from Wuhan, Hubei, China.
+What is the title of Tiger Ren	Tiger Ren is a SDE,dev in ECIT.
+Who is the mentee of Tiger Ren	Kan.
+Who is the mentor of Tiger Ren	Jason Yin is mentor of Tiger Ren.
+whose mentor is Tiger Ren	Tiger Ren is the mentor of Kan.
+whose mentee is Tiger Ren	Tiger Ren's mentor is Jason Yin 
+What projects have Tiger Ren done?	Tiger Ren was on project MDS, CBI, EBI.
+What projects is Tiger Ren working on?	Tiger Ren is doing project Efficiency.
+What projects have Tiger Ren worked on?	Tiger Ren was on project MDS, CBI, EBI.
+What projects is Tiger Ren currently on?	Tiger Ren is doing project Efficiency.
+When is Tiger Ren onboarding?	Tiger Ren is onboarding 3/31/2011
+How long is Tiger Ren onboarding?	Tiger Ren is onboarding almost 4 years. he is here exactly 1220 days!
+How long Tiger Ren worked for microsoft?	Tiger Ren has been onboarding for almost 4 years and 4 months.
+how long Tiger Ren worked in ecit?	Not sure, but I know Tiger Ren has been onboarding in microsoft for almost 4 years and 4 months.
+Who does Tiger Ren report to?	Tiger Ren reports to Tommy Liu.
+Who are the mentees of Tiger Ren	Kan.
+Who is the mentor of Tiger Ren	Jason Yin is mentor of Tiger Ren.
+What do you think of Dalei Yang?	Dalei Yang is a good SDEII,dev! I really appreciate it.
+How long has Dalei Yang been working for microsoft?	Dalei Yang has been working for almost 3 years and 11 months in microsoft.
+How long has Dalei Yang been in microsoft?	Dalei Yang has been working for almost 3 years and 11 months in microsoft.
+Who is Dalei Yang	Dalei Yang is a Male, SDEII,dev from Beijing, China. he is onboarding at 9/1/2011. he was on Portal Consolidation,Gallacake. 
+Where is Dalei Yang from?	Dalei Yang is from Beijing, China.
+What is the title of Dalei Yang	Dalei Yang is a SDEII,dev in ECIT.
+What projects have Dalei Yang done?	Dalei Yang was on project EBMS, EBI, Big Data.
+What projects is Dalei Yang working on?	Dalei Yang is doing project Portal Consolidation,Gallacake.
+What projects have Dalei Yang worked on?	Dalei Yang was on project EBMS, EBI, Big Data.
+What projects is Dalei Yang currently on?	Dalei Yang is doing project Portal Consolidation,Gallacake.
+When is Dalei Yang onboarding?	Dalei Yang is onboarding 9/1/2011
+How long is Dalei Yang onboarding?	Dalei Yang is onboarding almost 3 years. he is here exactly 1066 days!
+How long Dalei Yang worked for microsoft?	Dalei Yang has been onboarding for almost 3 years and 11 months.
+how long Dalei Yang worked in ecit?	Not sure, but I know Dalei Yang has been onboarding in microsoft for almost 3 years and 11 months.
+Who does Dalei Yang report to?	Dalei Yang reports to Tommy Liu.
+What do you think of Vincent Feng?	Vincent Feng is a good SDET,tester! I really appreciate it.
+How long has Vincent Feng been working for microsoft?	Vincent Feng has been working for almost 2 years and 7 months in microsoft.
+How long has Vincent Feng been in microsoft?	Vincent Feng has been working for almost 2 years and 7 months in microsoft.
+Who is Vincent Feng	Vincent Feng is a Male, SDET,tester from Fujian, China. he is onboarding at 1/4/2013. he was on Gallacake. 
+Where is Vincent Feng from?	Vincent Feng is from Fujian, China.
+What is the title of Vincent Feng	Vincent Feng is a SDET,tester in ECIT.
+Who is the mentor of Vincent Feng	Rocky Zhang is mentor of Vincent Feng.
+whose mentee is Vincent Feng	Vincent Feng's mentor is Rocky Zhang 
+What projects have Vincent Feng done?	Vincent Feng was on project EBI.
+What projects is Vincent Feng working on?	Vincent Feng is doing project Gallacake.
+What projects have Vincent Feng worked on?	Vincent Feng was on project EBI.
+What projects is Vincent Feng currently on?	Vincent Feng is doing project Gallacake.
+When is Vincent Feng onboarding?	Vincent Feng is onboarding 1/4/2013
+How long is Vincent Feng onboarding?	Vincent Feng is onboarding almost 2 years. he is here exactly 575 days!
+How long Vincent Feng worked for microsoft?	Vincent Feng has been onboarding for almost 2 years and 7 months.
+how long Vincent Feng worked in ecit?	Not sure, but I know Vincent Feng has been onboarding in microsoft for almost 2 years and 7 months.
+Who does Vincent Feng report to?	Vincent Feng reports to Jenny Jiang.
+Who is the mentor of Vincent Feng	Rocky Zhang is mentor of Vincent Feng.
+What do you think of Liu Yang?	Liu Yang is a good SDE,dev! I really appreciate it.
+How long has Liu Yang been working for microsoft?	Liu Yang has been working for almost 2 years and 7 months in microsoft.
+How long has Liu Yang been in microsoft?	Liu Yang has been working for almost 2 years and 7 months in microsoft.
+Who is Liu Yang	Liu Yang is a Female, SDE,dev from Xi’an, Shanxi, China. she is onboarding at 12/10/2012. she was on GallaCake. 
+Where is Liu Yang from?	Liu Yang is from Xi’an, Shanxi, China.
+What is the title of Liu Yang	Liu Yang is a SDE,dev in ECIT.
+Who is the mentor of Liu Yang	Dalei Yang is mentor of Liu Yang.
+whose mentee is Liu Yang	Liu Yang's mentor is Dalei Yang 
+What projects have Liu Yang done?	Liu Yang was on project EBI.
+What projects is Liu Yang working on?	Liu Yang is doing project GallaCake.
+What projects have Liu Yang worked on?	Liu Yang was on project EBI.
+What projects is Liu Yang currently on?	Liu Yang is doing project GallaCake.
+When is Liu Yang onboarding?	Liu Yang is onboarding 12/10/2012
+How long is Liu Yang onboarding?	Liu Yang is onboarding almost 2 years. she is here exactly 600 days!
+How long Liu Yang worked for microsoft?	Liu Yang has been onboarding for almost 2 years and 7 months.
+how long Liu Yang worked in ecit?	Not sure, but I know Liu Yang has been onboarding in microsoft for almost 2 years and 7 months.
+Who does Liu Yang report to?	Liu Yang reports to Tommy Liu.
+Who is the mentor of Liu Yang	Dalei Yang is mentor of Liu Yang.
+What do you think of Li Dong?	Li Dong is a good INTERN! I really appreciate it.
+How long has Li Dong been working for microsoft?	Li Dong has been working for 0 year and 1 months in microsoft.
+How long has Li Dong been in microsoft?	Li Dong has been working for 0 year and 1 months in microsoft.
+Who is Li Dong	Li Dong is a Female, INTERN from Hubei, China. she is onboarding at 6/24/2014. she was on Gallacake. 
+Where is Li Dong from?	Li Dong is from Hubei, China.
+What is the title of Li Dong	Li Dong is a INTERN in ECIT.
+What projects is Li Dong working on?	Li Dong is doing project Gallacake.
+What projects is Li Dong currently on?	Li Dong is doing project Gallacake.
+When is Li Dong onboarding?	Li Dong is onboarding 6/24/2014
+How long is Li Dong onboarding?	Li Dong is onboarding 0 year. she is here exactly 39 days!
+How long Li Dong worked for microsoft?	Li Dong has been onboarding for 0 year and 1 months.
+how long Li Dong worked in ecit?	Not sure, but I know Li Dong has been onboarding in microsoft for 0 year and 1 months.
+Who does Li Dong report to?	Li Dong reports to Tommy Liu.
+What do you think of Paul Li?	Paul Li is a good SDE,dev! I really appreciate it.
+How long has Paul Li been working for microsoft?	Paul Li has been working for almost 4 years and 6 months in microsoft.
+How long has Paul Li been in microsoft?	Paul Li has been working for almost 4 years and 6 months in microsoft.
+Who is Paul Li	Paul Li is a Male, SDE,dev from Jingzhou, Hubei, China. he is onboarding at 1/6/2011. he was on Gallacake. 
+Where is Paul Li from?	Paul Li is from Jingzhou, Hubei, China.
+What is the title of Paul Li	Paul Li is a SDE,dev in ECIT.
+Who is the mentee of Paul Li	Li Dong.
+whose mentor is Paul Li	Paul Li is the mentor of Li Dong.
+What projects have Paul Li done?	Paul Li was on project Efficiency.
+What projects is Paul Li working on?	Paul Li is doing project Gallacake.
+What projects have Paul Li worked on?	Paul Li was on project Efficiency.
+What projects is Paul Li currently on?	Paul Li is doing project Gallacake.
+When is Paul Li onboarding?	Paul Li is onboarding 1/6/2011
+How long is Paul Li onboarding?	Paul Li is onboarding almost 4 years. he is here exactly 1304 days!
+How long Paul Li worked for microsoft?	Paul Li has been onboarding for almost 4 years and 6 months.
+how long Paul Li worked in ecit?	Not sure, but I know Paul Li has been onboarding in microsoft for almost 4 years and 6 months.
+Who does Paul Li report to?	Paul Li reports to Tommy Liu.
+Who are the mentees of Paul Li	Li Dong.
+What do you think of Bin Gu?	Bin Gu is a good SDEII,dev! I really appreciate it.
+How long has Bin Gu been working for microsoft?	Bin Gu has been working for almost 2 years and 5 months in microsoft.
+How long has Bin Gu been in microsoft?	Bin Gu has been working for almost 2 years and 5 months in microsoft.
+Who is Bin Gu	Bin Gu is a Male, SDEII,dev from Jingjiang, Jiangsu, China. he is onboarding at 2/28/2013. he was on GallaCake. 
+Where is Bin Gu from?	Bin Gu is from Jingjiang, Jiangsu, China.
+What is the title of Bin Gu	Bin Gu is a SDEII,dev in ECIT.
+What projects have Bin Gu done?	Bin Gu was on project EBMS, EBI, CBI, Big Data, MDS.
+What projects is Bin Gu working on?	Bin Gu is doing project GallaCake.
+What projects have Bin Gu worked on?	Bin Gu was on project EBMS, EBI, CBI, Big Data, MDS.
+What projects is Bin Gu currently on?	Bin Gu is doing project GallaCake.
+When is Bin Gu onboarding?	Bin Gu is onboarding 2/28/2013
+How long is Bin Gu onboarding?	Bin Gu is onboarding almost 2 years. he is here exactly 520 days!
+How long Bin Gu worked for microsoft?	Bin Gu has been onboarding for almost 2 years and 5 months.
+how long Bin Gu worked in ecit?	Not sure, but I know Bin Gu has been onboarding in microsoft for almost 2 years and 5 months.
+Who does Bin Gu report to?	Bin Gu reports to Tommy Liu.
+What do you think of Wayne Xu?	Wayne Xu is a good SDE,dev,MACH! I really appreciate it.
+How long has Wayne Xu been working for microsoft?	Wayne Xu has been working for almost 2 years and 1 months in microsoft.
+How long has Wayne Xu been in microsoft?	Wayne Xu has been working for almost 2 years and 1 months in microsoft.
+Who is Wayne Xu	Wayne Xu is a Male, SDE,dev,MACH from Tianjin, China. he is onboarding at 7/1/2013. he was on Gallacake. 
+Where is Wayne Xu from?	Wayne Xu is from Tianjin, China.
+What is the title of Wayne Xu	Wayne Xu is a SDE,dev,MACH in ECIT.
+Who is the mentor of Wayne Xu	Dalei Yang is mentor of Wayne Xu.
+whose mentee is Wayne Xu	Wayne Xu's mentor is Dalei Yang 
+What projects have Wayne Xu done?	Wayne Xu was on project IAPS, IT Dev Center, Autosite.
+What projects is Wayne Xu working on?	Wayne Xu is doing project Gallacake.
+What projects have Wayne Xu worked on?	Wayne Xu was on project IAPS, IT Dev Center, Autosite.
+What projects is Wayne Xu currently on?	Wayne Xu is doing project Gallacake.
+When is Wayne Xu onboarding?	Wayne Xu is onboarding 7/1/2013
+How long is Wayne Xu onboarding?	Wayne Xu is onboarding almost 2 years. he is here exactly 397 days!
+How long Wayne Xu worked for microsoft?	Wayne Xu has been onboarding for almost 2 years and 1 months.
+how long Wayne Xu worked in ecit?	Not sure, but I know Wayne Xu has been onboarding in microsoft for almost 2 years and 1 months.
+Who does Wayne Xu report to?	Wayne Xu reports to Tommy Liu.
+Who is the mentor of Wayne Xu	Dalei Yang is mentor of Wayne Xu.
+How many Chinese in ECIT?	There are 17! Jason Duan, Justin Li, Dalei Yang, Bin Gu, Paul Li, Weiwei Ding, Jenny Jiang, Wayne Xu, Li Dong, Kan Chen, Lei Lu, Liu Yang, Vincent Feng, Yanbo Liu, Lynn Zhu, Tommy Liu, Tiger Ren.
+Who is from Chongqin?	Jenny Jiang is from There!
+How many people come from Chongqin?	There is 1! Jenny Jiang from Chongqin.
+Who is from India?	Nakul Madaan is from There!
+How many people come from India?	There is 1! Nakul Madaan from India.
+Who is from Hubei?	Justin Li, Paul Li, Li Dong, Lei Lu, Tommy Liu, Tiger Ren are from There!
+How many people come from Hubei?	There are 6! Justin Li, Paul Li, Li Dong, Lei Lu, Tommy Liu, Tiger Ren from Hubei.
+Who is from SiChuang?	Jenny Jiang is from There!
+How many people come from SiChuang?	There is 1! Jenny Jiang from SiChuang.
+Who is SDEII ?	Justin Li, Dalei Yang, Bin Gu.
+Who is SDEII in ecit?	Justin Li, Dalei Yang, Bin Gu.
+Whose title is SDEII?	Justin Li, Dalei Yang, Bin Gu.
+How many SDEII in ECIT?	There are 3! Justin Li, Dalei Yang, Bin Gu.
+Whose mentee is Yanbo Liu?	Justin Li is mentor of Yanbo Liu.
+Whose mentee is Yanbo Liu?	Justin Li is mentor of Yanbo Liu.
+Who is from Beijing?	Dalei Yang, Yanbo Liu are from There!
+How many people come from Beijing?	There are 2! Dalei Yang, Yanbo Liu from Beijing.
+Who is from Jingjiang?	Bin Gu is from There!
+How many people come from Jingjiang?	There is 1! Bin Gu from Jingjiang.
+Who is from Hisar?	Nakul Madaan is from There!
+How many people come from Hisar?	There is 1! Nakul Madaan from Hisar.
+Who have worked on MDS?	Justin Li, Bin Gu, Jenny Jiang, Lei Lu, Yanbo Liu, Tommy Liu, Tiger Ren have worked on MDS
+Who have worked on EBMS?	Lynn Zhu, Dalei Yang, Bin Gu have worked on EBMS
+Who have worked on HRStaffing?	Jenny Jiang, Tommy Liu have worked on HRStaffing
+Who is PM2 ?	Nakul Madaan.
+Who is PM2 in ecit?	Nakul Madaan.
+Whose title is PM2?	Nakul Madaan.
+How many PM2 in ECIT?	There is 1! Nakul Madaan.
+Who is GPM ?	Jenny Jiang.
+Who is GPM in ecit?	Jenny Jiang.
+Whose title is GPM?	Jenny Jiang.
+How many GPM in ECIT?	There is 1! Jenny Jiang.
+Who is Senior Dev Leader ?	Tommy Liu.
+Who is Senior Dev Leader in ecit?	Tommy Liu.
+Whose title is Senior Dev Leader?	Tommy Liu.
+How many Senior Dev Leader in ECIT?	There is 1! Tommy Liu.
+Who are working on Order Convergence?	Nakul Madaan, Kan Chen are working on Order Convergence
+Whose mentee is Joanne Shao?	Yanbo Liu is mentor of Joanne Shao.
+Whose mentee is Joanne Shao?	Yanbo Liu is mentor of Joanne Shao.
+Who is from Haryana?	Nakul Madaan is from There!
+How many people come from Haryana?	There is 1! Nakul Madaan from Haryana.
+Who have worked on EBI?	Dalei Yang, Bin Gu, Jenny Jiang, Nakul Madaan, Liu Yang, Vincent Feng, Lynn Zhu, Tommy Liu, Tiger Ren have worked on EBI
+Whose mentor is Karen Toh?	Justin Li is mentee of Karen Toh.
+Whose mentor is Karen Toh?	Justin Li is mentee of Karen Toh.
+Who is SDET ?	Lei Lu, Vincent Feng.
+Who is SDET in ecit?	Lei Lu, Vincent Feng.
+Whose title is SDET?	Lei Lu, Vincent Feng.
+How many SDET in ECIT?	There are 2! Lei Lu, Vincent Feng.
+Who is from China?	Justin Li, Dalei Yang, Bin Gu, Paul Li, Weiwei Ding, Jenny Jiang, Wayne Xu, Li Dong, Kan Chen, Lei Lu, Liu Yang, Vincent Feng, Yanbo Liu, Lynn Zhu, Tommy Liu, Tiger Ren are from There!
+How many people come from China?	There are 16! Justin Li, Dalei Yang, Bin Gu, Paul Li, Weiwei Ding, Jenny Jiang, Wayne Xu, Li Dong, Kan Chen, Lei Lu, Liu Yang, Vincent Feng, Yanbo Liu, Lynn Zhu, Tommy Liu, Tiger Ren from China.
+How many people in ECIT?	There are 18! Jason Duan, Justin Li, Dalei Yang, Bin Gu, Paul Li, Weiwei Ding, Jenny Jiang, Wayne Xu, Li Dong, Kan Chen, Nakul Madaan, Lei Lu, Liu Yang, Vincent Feng, Yanbo Liu, Lynn Zhu, Tommy Liu, Tiger Ren.
+Who have worked on CBI?	Lei Lu, Bin Gu, Nakul Madaan, Tiger Ren have worked on CBI
+Who is Male?	Jason Duan, Justin Li, Dalei Yang, Bin Gu, Paul Li, Weiwei Ding, Wayne Xu, Nakul Madaan, Lei Lu, Vincent Feng, Yanbo Liu, Tommy Liu, Tiger Ren are Male.
+Who is Male in ecit?	Jason Duan, Justin Li, Dalei Yang, Bin Gu, Paul Li, Weiwei Ding, Wayne Xu, Nakul Madaan, Lei Lu, Vincent Feng, Yanbo Liu, Tommy Liu, Tiger Ren are Male.
+Who is PMII ?	Nakul Madaan.
+Who is PMII in ecit?	Nakul Madaan.
+Whose title is PMII?	Nakul Madaan.
+How many PMII in ECIT?	There is 1! Nakul Madaan.
+Who are working on Portal Consolidation?	Dalei Yang is working on Portal Consolidation
+Who have worked on IT Dev Center?	Wayne Xu have worked on IT Dev Center
+Who are working on Efficiency?	Jason Duan, Tiger Ren, Weiwei Ding are working on Efficiency
+Whose mentor is Dalei Yang?	Liu Yang, Wayne Xu are mentee of Dalei Yang.
+Whose mentor is Dalei Yang?	Liu Yang, Wayne Xu are mentee of Dalei Yang.
+How many Foreigner in ECIT?	There is 1! Nakul Madaan.
+Who is Senior PM ?	Lynn Zhu.
+Who is Senior PM in ecit?	Lynn Zhu.
+Whose title is Senior PM?	Lynn Zhu.
+How many Senior PM in ECIT?	There is 1! Lynn Zhu.
+Who is from Putian?	Kan Chen is from There!
+How many people come from Putian?	There is 1! Kan Chen from Putian.
+Who have worked on Autosite?	Wayne Xu have worked on Autosite
+Who have worked on Big Data?	Dalei Yang, Bin Gu have worked on Big Data
+Who is dev ?	Jason Duan, Justin Li, Dalei Yang, Bin Gu, Paul Li, Wayne Xu, Kan Chen, Liu Yang, Yanbo Liu, Tiger Ren.
+Who is dev in ecit?	Jason Duan, Justin Li, Dalei Yang, Bin Gu, Paul Li, Wayne Xu, Kan Chen, Liu Yang, Yanbo Liu, Tiger Ren.
+Whose title is dev?	Jason Duan, Justin Li, Dalei Yang, Bin Gu, Paul Li, Wayne Xu, Kan Chen, Liu Yang, Yanbo Liu, Tiger Ren.
+How many dev in ECIT?	There are 10! Jason Duan, Justin Li, Dalei Yang, Bin Gu, Paul Li, Wayne Xu, Kan Chen, Liu Yang, Yanbo Liu, Tiger Ren.
+Whose mentor is Jason Yin?	Tiger Ren is mentee of Jason Yin.
+Whose mentor is Jason Yin?	Tiger Ren is mentee of Jason Yin.
+Who is SDE ?	Jason Duan, Wayne Xu, Paul Li, Kan Chen, Liu Yang, Yanbo Liu, Tiger Ren.
+Who is SDE in ecit?	Jason Duan, Wayne Xu, Paul Li, Kan Chen, Liu Yang, Yanbo Liu, Tiger Ren.
+Whose title is SDE?	Jason Duan, Wayne Xu, Paul Li, Kan Chen, Liu Yang, Yanbo Liu, Tiger Ren.
+How many SDE in ECIT?	There are 7! Jason Duan, Wayne Xu, Paul Li, Kan Chen, Liu Yang, Yanbo Liu, Tiger Ren.
+Who is Program Manager ?	Lynn Zhu, Nakul Madaan.
+Who is Program Manager in ecit?	Lynn Zhu, Nakul Madaan.
+Whose title is Program Manager?	Lynn Zhu, Nakul Madaan.
+How many Program Manager in ECIT?	There are 2! Lynn Zhu, Nakul Madaan.
+Whose mentor is Justin Li?	Weiwei Ding, Yanbo Liu are mentee of Justin Li.
+Whose mentor is Justin Li?	Weiwei Ding, Yanbo Liu are mentee of Justin Li.
+Who are working on GallaCake?	Lynn Zhu, Liu Yang, Bin Gu are working on GallaCake
+Who is from Jiangsu?	Bin Gu is from There!
+How many people come from Jiangsu?	There is 1! Bin Gu from Jiangsu.
+Whose mentor is Tiger ren?	Kan Chen is mentee of Tiger ren.
+Whose mentor is Tiger ren?	Kan Chen is mentee of Tiger ren.
+Who is Female?	Jenny Jiang, Li Dong, Lynn Zhu, Kan Chen, Liu Yang are Female.
+Who is Female in ecit?	Jenny Jiang, Li Dong, Lynn Zhu, Kan Chen, Liu Yang are Female.
+Whose mentee is Tiger?	Lei Lu is mentor of Tiger.
+Whose mentee is Tiger?	Lei Lu is mentor of Tiger.
+Who is from Jingzhou?	Paul Li is from There!
+How many people come from Jingzhou?	There is 1! Paul Li from Jingzhou.
+Who have worked on Efficiency?	Paul Li have worked on Efficiency
+Who is tester ?	Lei Lu, Vincent Feng.
+Who is tester in ecit?	Lei Lu, Vincent Feng.
+Whose title is tester?	Lei Lu, Vincent Feng.
+How many tester in ECIT?	There are 2! Lei Lu, Vincent Feng.
+Who is from Zhejiang?	Weiwei Ding is from There!
+How many people come from Zhejiang?	There is 1! Weiwei Ding from Zhejiang.
+Who is from Xi’an?	Liu Yang is from There!
+How many people come from Xi’an?	There is 1! Liu Yang from Xi’an.
+Whose mentee is Weiwei Ding?	Justin Li is mentor of Weiwei Ding.
+Whose mentee is Weiwei Ding?	Justin Li is mentor of Weiwei Ding.
+Whose mentor is Rajesh?	Nakul Madaan is mentee of Rajesh.
+Whose mentor is Rajesh?	Nakul Madaan is mentee of Rajesh.
+Who is from Shanxi?	Liu Yang is from There!
+How many people come from Shanxi?	There is 1! Liu Yang from Shanxi.
+Who is from Wuhan?	Tiger Ren, Tommy Liu, Justin Li are from There!
+How many people come from Wuhan?	There are 3! Tiger Ren, Tommy Liu, Justin Li from Wuhan.
+Whose mentor is Rocky Zhang?	Vincent Feng is mentee of Rocky Zhang.
+Whose mentor is Rocky Zhang?	Vincent Feng is mentee of Rocky Zhang.
+Who have worked on Global Migration?	Jenny Jiang, Tommy Liu have worked on Global Migration
+Whose mentee is Ambuj?	Nakul Madaan is mentor of Ambuj.
+Whose mentee is Ambuj?	Nakul Madaan is mentor of Ambuj.
+Who have worked on IPAM?	Lei Lu have worked on IPAM
+Who are working on Gallacake?	Justin Li, Dalei Yang, Wayne Xu, Paul Li, Jenny Jiang, Li Dong, Lei Lu, Vincent Feng, Yanbo Liu, Tommy Liu are working on Gallacake
+Whose mentee is Li Dong?	Paul Li is mentor of Li Dong.
+Whose mentee is Li Dong?	Paul Li is mentor of Li Dong.
+Whose mentor is Jeremy?	Lei Lu is mentee of Jeremy.
+Whose mentor is Jeremy?	Lei Lu is mentee of Jeremy.
+Who is from JiangSu?	Lynn Zhu is from There!
+How many people come from JiangSu?	There is 1! Lynn Zhu from JiangSu.
+Who is from Tianjin?	Wayne Xu is from There!
+How many people come from Tianjin?	There is 1! Wayne Xu from Tianjin.
+Who is from Fujian?	Vincent Feng, Kan Chen are from There!
+How many people come from Fujian?	There are 2! Vincent Feng, Kan Chen from Fujian.
+Whose mentee is Kan?	Tiger Ren is mentor of Kan.
+Whose mentee is Kan?	Tiger Ren is mentor of Kan.
+Who is MACH ?	Kan Chen, Wayne Xu.
+Who is MACH in ecit?	Kan Chen, Wayne Xu.
+Whose title is MACH?	Kan Chen, Wayne Xu.
+How many MACH in ECIT?	There are 2! Kan Chen, Wayne Xu.
+Who is INTERN ?	Weiwei Ding, Li Dong.
+Who is INTERN in ecit?	Weiwei Ding, Li Dong.
+Whose title is INTERN?	Weiwei Ding, Li Dong.
+How many INTERN in ECIT china?	There are 2! Weiwei Ding, Li Dong.
+Who have worked on IAPS?	Wayne Xu have worked on IAPS

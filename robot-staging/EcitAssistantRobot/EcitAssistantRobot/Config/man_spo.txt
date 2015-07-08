@@ -1,0 +1,155 @@
+jejiang	Gender	Female
+jejiang	Hometown	SiChuang, Chongqin, China
+jejiang	Title	GPM
+jejiang	ProjectsWorkedOn	Global Migration, HRStaffing, MDS, EBI
+jejiang	ProjectsWorkingOn	Gallacake
+jejiang	nationality	USA
+jejiang	ReportTo	Paul H
+tommyliu	Gender	Male
+tommyliu	Hometown	Wuhan, Hubei, China
+tommyliu	Title	Senior Dev Leader
+tommyliu	ProjectsWorkedOn	Global Migration, HRStaffing, MDS, EBI
+tommyliu	ProjectsWorkingOn	Gallacake
+tommyliu	Onboarding	1/13/2011
+tommyliu	nationality	USA
+tommyliu	ReportTo	Jenny Jiang
+nakulm	Gender	Male
+nakulm	Hometown	Hisar, Haryana, India
+nakulm	Title	Program Manager 2
+nakulm	ProjectsWorkedOn	EBI, CBI
+nakulm	ProjectsWorkingOn	Order Convergency
+nakulm	Onboarding	10/1/2007
+nakulm	Mentees	Ambuj
+nakulm	Mentor	Rajesh
+nakulm	nationality	India
+nakulm	ReportTo	Jenny Jiang
+lynnz	Gender	Female
+lynnz	Hometown	JiangSu, China
+lynnz	Title	Senior Program Manager
+lynnz	ProjectsWorkedOn	EBI, EBMS
+lynnz	ProjectsWorkingOn	GallaCake
+lynnz	Onboarding	4/29/2011
+lynnz	nationality	Cannada
+lynnz	ReportTo	Jenny Jiang
+leilu	Gender	Male
+leilu	Hometown	Hubei, China
+leilu	Title	SDET ii
+leilu	ProjectsWorkedOn	MDS, CBI, IPAM
+leilu	ProjectsWorkingOn	Gallacake
+leilu	Onboarding	4/18/2011
+leilu	Mentees	Tiger
+leilu	Mentor	Jeremy
+leilu	nationality	China
+leilu	ReportTo	Jenny Jiang
+jduan	Gender	Male
+jduan	Title	SDE
+jduan	ProjectsWorkingOn	Order convergency
+jduan	nationality	China
+jduan	ReportTo	Tommy Liu
+jduan	TeamLocation	ecit china
+kanchen	Gender	Female
+kanchen	Hometown	Putian,Fujian,China
+kanchen	Title	SDE
+kanchen	ProjectsWorkingOn	Order Convergency
+kanchen	Onboarding	4/10/2014
+kanchen	Mentor	Tiger ren
+kanchen	nationality	China
+kanchen	ReportTo	tommy liu
+jl	Gender	Male
+jl	Hometown	Wuhan, Hubei, China
+jl	Title	SDE II
+jl	ProjectsWorkedOn	MDS
+jl	ProjectsWorkingOn	Gallacake
+jl	Onboarding	06/30/2006
+jl	Mentees	Yanbo Liu, Weiwei Ding
+jl	Mentor	Karen Toh
+jl	nationality	China
+jl	ReportTo	Tommy Liu
+yanbol	Gender	Male
+yanbol	Hometown	Beijing, China
+yanbol	Title	SDE
+yanbol	ProjectsWorkedOn	MDS
+yanbol	ProjectsWorkingOn	Gallacake
+yanbol	Onboarding	8/26/2011
+yanbol	Mentees	Joanne Shao
+yanbol	Mentor	Justin Li
+yanbol	nationality	China
+yanbol	ReportTo	Tommy Liu
+t-diwei	Gender	Male
+t-diwei	Hometown	Zhejiang, China
+t-diwei	Title	IT SDE INTERN
+t-diwei	ProjectsWorkingOn	Efficiency
+t-diwei	Onboarding	6/24/2014
+t-diwei	Mentor	Justin Li
+t-diwei	nationality	China
+t-diwei	ReportTo	Tommy Liu
+tigeren	Gender	Male
+tigeren	Hometown	Wuhan, Hubei, China
+tigeren	Title	SDE
+tigeren	ProjectsWorkedOn	MDS, CBI, EBI
+tigeren	ProjectsWorkingOn	Efficiency
+tigeren	Onboarding	3/31/2011
+tigeren	Mentees	Kan
+tigeren	Mentor	Jason Yin
+tigeren	nationality	China
+tigeren	ReportTo	Tommy Liu
+dalya	Gender	Male
+dalya	Hometown	Beijing, China
+dalya	Title	SDE II
+dalya	ProjectsWorkedOn	EBMS, EBI, Big Data
+dalya	ProjectsWorkingOn	Portal Consolidation,Gallacake
+dalya	Onboarding	9/1/2011
+dalya	nationality	China
+dalya	ReportTo	Tommy Liu
+vifeng	Gender	Male
+vifeng	Hometown	Fujian, China
+vifeng	Title	SDET
+vifeng	ProjectsWorkedOn	EBI
+vifeng	ProjectsWorkingOn	Gallacake
+vifeng	Onboarding	1/4/2013
+vifeng	Mentor	Rocky Zhang
+vifeng	nationality	China
+vifeng	ReportTo	Jenny Jiang
+liy	Gender	Female
+liy	Hometown	Xi'an, Shanxi, China
+liy	Title	SDE
+liy	ProjectsWorkedOn	EBI
+liy	ProjectsWorkingOn	GallaCake
+liy	Onboarding	12/10/2012
+liy	Mentor	Dalei Yang
+liy	nationality	China
+liy	ReportTo	Tommy Liu
+t-lidong	Gender	Female
+t-lidong	Hometown	Hubei, China
+t-lidong	Title	IT SDE INTERN
+t-lidong	ProjectsWorkingOn	Gallacake
+t-lidong	Onboarding	6/24/2014
+t-lidong	nationality	China
+t-lidong	ReportTo	Tommy Liu
+pauli	Gender	Male
+pauli	Hometown	Jingzhou, Hubei, China
+pauli	Title	SDE
+pauli	ProjectsWorkedOn	Efficiency
+pauli	ProjectsWorkingOn	Gallacake
+pauli	Onboarding	1/6/2011
+pauli	Mentees	Li Dong
+pauli	nationality	China
+pauli	ReportTo	Tommy Liu
+bingu	Gender	Male
+bingu	Hometown	Jingjiang, Jiangsu, China
+bingu	Title	SDE II
+bingu	ProjectsWorkedOn	EBMS, EBI, CBI, Big Data, MDS
+bingu	ProjectsWorkingOn	GallaCake
+bingu	Onboarding	2/28/2013
+bingu	nationality	China
+bingu	ReportTo	Tommy Liu
+wenxu	Name	Wayne Xu
+wenxu	Gender	Male
+wenxu	Hometown	Tianjin, China
+wenxu	Title	SDE
+wenxu	ProjectsWorkedOn	IAPS, IT Dev Center, Autosite
+wenxu	ProjectsWorkingOn	Gallacake
+wenxu	Onboarding	7/1/2013
+wenxu	Mentor	Dalei Yang
+wenxu	nationality	China
+wenxu	ReportTo	Tommy Liu

@@ -1,0 +1,52 @@
+﻿2014-08-16 12:27:47.887	[Verbose]	Logger created.
+2014-08-16 12:27:47.887	[Information]	Initializing.
+2014-08-16 12:27:47.887	[Verbose]	Creating shell.
+2014-08-16 12:27:47.903	[Verbose]	Starting shell.
+2014-08-16 12:27:47.903	[Information]	Starting Lync shell.
+2014-08-16 12:27:47.903	[Verbose]	Killing Lync processes.
+2014-08-16 12:27:47.903	[Verbose]	Getting Lync client.
+2014-08-16 12:27:53.864	[Verbose]	Initializing Lync client.
+2014-08-16 12:27:53.910	[Verbose]	Creating robot.
+2014-08-16 12:27:53.910	[Information]	Initialized.
+2014-08-16 12:27:53.910	[Verbose]	LyncClient_StateChanged	Uninitialized->Initializing
+2014-08-16 12:27:53.926	[Verbose]	LyncClient_StateChanged	Initializing->SignedOut
+2014-08-16 12:27:53.989	[Verbose]	LyncClient_StateChanged	SignedOut->SigningIn
+2014-08-16 12:28:19.011	[Verbose]	LyncClient_StateChanged	SigningIn->SignedIn
+2014-08-16 12:28:55.294	[Verbose]	ConversationManager_ConversationAdded	Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==
+2014-08-16 12:28:55.341	[Verbose]	Conversation_ParticipantAdded	ECIT China Assistant
+2014-08-16 12:28:55.388	[Verbose]	Conversation_ParticipantAdded	Kan Chen
+2014-08-16 12:28:56.881	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] Kan Chen: hello
+
+2014-08-16 12:29:00.116	[Verbose]	Message sent.	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: hello~ My name is Gems, How can I help you?</p>
+2014-08-16 12:29:09.150	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] Kan Chen: yes, who is jenny
+
+2014-08-16 12:29:11.072	[Verbose]	Message sent.	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: I find 1 of it.That is jenny jiang(jejiang),who is a gpm in ecit cogs vl eng chi.</p>
+2014-08-16 12:29:21.551	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] Kan Chen: who report to jenny
+
+2014-08-16 12:29:23.276	[Verbose]	Message sent.	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: I find 3 of them.That are tommy liu (msit)(tommyliu), nakul madaan(nakulm), lynn zhu(lynnz),</p>
+2014-08-16 12:29:31.744	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] Kan Chen: do you know tommy
+
+2014-08-16 12:29:33.401	[Verbose]	Message sent.	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: There is  tommy liu (msit)(tommyliu), who sits on beijing-bjw-1/11343</p>
+2014-08-16 12:29:39.406	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] Kan Chen: do you know chuck
+
+2014-08-16 12:29:41.265	[Verbose]	Message sent.	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: There is  chuck bradford(chuckb), who sits on beijing-bjw-1/11339</p>
+2014-08-16 12:29:51.333	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] Kan Chen: wow
+
+2014-08-16 12:29:53.396	[Verbose]	Message sent.	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: wow hmm..</p>
+2014-08-16 12:30:01.146	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] Kan Chen: no, wow haha
+
+2014-08-16 12:30:04.131	[Verbose]	Message sent.	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: thanks, I get that about 'wow', should be wow haha</p>
+2014-08-16 12:30:09.999	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] Kan Chen: you are so clever
+
+2014-08-16 12:30:11.906	[Verbose]	Message sent.	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: Really? I read too little, don't fool me~</p>
+2014-08-16 12:30:23.382	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] Kan Chen: I am not fooling you
+
+2014-08-16 12:30:25.117	[Verbose]	Message sent.	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: Sorry I donnot know, you can teach me~ you just reply:'no,'+ans is ok</p>
+2014-08-16 12:30:41.581	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] Kan Chen: no, ok~ I am so proud of myself
+
+2014-08-16 12:30:45.112	[Verbose]	Message sent.	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: thanks, I get that about 'I am not fooling you', should be ok~ I am so proud of myself</p>
+2014-08-16 12:30:51.879	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] Kan Chen: bye
+
+2014-08-16 12:30:53.985	[Verbose]	Message sent.	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: bye bye, miss you!</p>
+2014-08-16 12:30:59.638	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+4pf7L0RGK1pe5SAiIr6sOlmP2Yw==] Kan Chen: exit
+

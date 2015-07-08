@@ -1,0 +1,63 @@
+﻿2014-08-17 10:14:43.496	[Verbose]	Logger created.
+2014-08-17 10:14:43.496	[Information]	Initializing.
+2014-08-17 10:14:43.496	[Verbose]	Creating shell.
+2014-08-17 10:14:43.512	[Verbose]	Starting shell.
+2014-08-17 10:14:43.512	[Information]	Starting Lync shell.
+2014-08-17 10:14:43.512	[Verbose]	Killing Lync processes.
+2014-08-17 10:14:43.621	[Verbose]	Getting Lync client.
+2014-08-17 10:15:05.581	[Verbose]	Initializing Lync client.
+2014-08-17 10:15:05.596	[Verbose]	Creating robot.
+2014-08-17 10:15:05.596	[Information]	Initialized.
+2014-08-17 10:15:05.596	[Verbose]	LyncClient_StateChanged	Uninitialized->Initializing
+2014-08-17 10:15:05.627	[Verbose]	LyncClient_StateChanged	Initializing->SignedOut
+2014-08-17 10:15:05.674	[Verbose]	LyncClient_StateChanged	SignedOut->SigningIn
+2014-08-17 10:15:31.591	[Verbose]	LyncClient_StateChanged	SigningIn->SignedIn
+2014-08-17 10:18:30.598	[Verbose]	ConversationManager_ConversationAdded	Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==
+2014-08-17 10:18:30.614	[Verbose]	Conversation_ParticipantAdded	ECIT China Assistant
+2014-08-17 10:18:30.661	[Verbose]	Conversation_ParticipantAdded	Kan Chen
+2014-08-17 10:18:32.208	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] Kan Chen: hello
+
+2014-08-17 10:18:35.240	[Verbose]	Message sent.	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: hello~ My name is Gems, I know basic people information in mist china and ecit. How can I help you?</p>
+2014-08-17 10:18:47.054	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] Kan Chen: yes, can you tell me who is tony ulkekul?
+
+2014-08-17 10:18:50.336	[Verbose]	Message sent.	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: I find 1 of it.That is tony ulkekul(tonyu),who is a general manager in ecit cogs -vl eng-us.</p>
+2014-08-17 10:19:00.557	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] Kan Chen: what is ecit cogs-vl eng-us
+
+2014-08-17 10:19:04.277	[Verbose]	Message sent.	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] ECIT China Assistant: <div><p>Results from Bing.com:</p><p>[1] <a href="http://www.linkedin.com/pub/jodi-smith/10/67/AB6">Jodi Smith | LinkedIn</a></p><p>[2] <a href="http://www.linkedin.com/pub/dannielle-matison/82/505/177">Dannielle Matison | LinkedIn</a></p><p><a href="http://www.bing.com/search?q=what is ecit cogs-vl eng-us
+">View all results</a></p></div>
+2014-08-17 10:19:19.389	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] Kan Chen: okay. then can you tell me more about tony ulkekul
+
+2014-08-17 10:19:20.937	[Verbose]	Message sent.	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: Tony has a beautiful family. He is a soccer fan and has been with Microsoft for [PII - Cannot be disclosed] years. For more information, turn back and ask Tony directly.</p>
+2014-08-17 10:19:43.560	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] Kan Chen: we got another beautiful lady here, gems, can you tell me who is faith?
+
+2014-08-17 10:19:51.296	[Verbose]	Message sent.	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: Searching...</p>
+2014-08-17 10:19:51.312	[Verbose]	Message sent.	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: Searching...</p>
+2014-08-17 10:19:52.452	[Verbose]	Message sent.	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: Searching...</p>
+2014-08-17 10:19:53.609	[Verbose]	Message sent.	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: Retrieving Info from Linked in –</p>
+2014-08-17 10:19:54.734	[Verbose]	Message sent.	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: Faith is currently working as Chief of Staff/Business Manager at Microsoft. Previously worked at AT&T and more… Sorry that's all I got.</p>
+2014-08-17 10:20:16.114	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] Kan Chen: okay. anything more about who is faith?
+
+2014-08-17 10:20:18.161	[Verbose]	Message sent.	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: Faith is working as Chief of Staff/Business Manager at Microsoft. Previously worked at AT&T.</p>
+2014-08-17 10:20:27.886	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] Kan Chen: more about faith?
+
+2014-08-17 10:20:30.121	[Verbose]	Message sent.	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] ECIT China Assistant: <div><p>Results from Bing.com:</p><p>[1] <a href="http://en.wikipedia.org/wiki/Faith">Faith - Wikipedia, the free encyclopedia</a></p><p>[2] <a href="https://www.lds.org/topics/faith?lang=eng">Faith - The Church of Jesus Christ of Latter-day Saints</a></p><p>[3] <a href="http://www.ourcatholicfaith.org/">Our Catholic Faith - A Journey In Christ</a></p><p>[4] <a href="http://www.huffingtonpost.com/joe-newman/sometimes-street-photogra_b_5657669.html">Sometimes, Street Photography Is About Having Faith | Joe ...</a></p><p>[5] <a href="http://lds.about.com/od/basicsgospelprinciples/a/what_is_faith.htm">Faith in the LDS Church - About.com Latter-day Saints</a></p><p><a href="http://www.bing.com/search?q=more about faith?
+">View all results</a></p></div>
+2014-08-17 10:20:47.688	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] Kan Chen: okay. thank you so much gems,
+
+2014-08-17 10:20:49.361	[Verbose]	Message sent.	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: You are welcome, Tony and Faith's profile have been updated.</p>
+2014-08-17 10:21:05.223	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] Kan Chen: wow. great, thanks, b-bye
+
+2014-08-17 10:21:07.270	[Verbose]	Message sent.	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: Bye, Nakul; Bye, Tony and Faith.</p>
+2014-08-17 10:22:13.477	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] Kan Chen: remind me have a music after 3 min
+
+2014-08-17 10:22:16.321	[Verbose]	Message sent.	[Ac+6JhxcGhYHAQLzSAWirKN2SSYgJg==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: sure, I will remind at 8/17/2014 10:25:13 PM</p>
+2014-08-17 10:25:13.740	[Verbose]	ConversationManager_ConversationAdded	Ac+6Jw8Vc89XXboAT7ONv/Ry+6MDKA==
+2014-08-17 10:25:13.740	[Warning]	kanchen@microsoft.com
+
+2014-08-17 10:25:13.787	[Verbose]	Conversation_ParticipantAdded	ECIT China Assistant
+2014-08-17 10:25:13.865	[Verbose]	Conversation_ParticipantAdded	Kan Chen
+2014-08-17 10:25:15.506	[Verbose]	ConversationManager_ConversationRemoved	
+2014-08-17 10:25:40.189	[Verbose]	Message sent.	[Ac+6Jw8Vc89XXboAT7ONv/Ry+6MDKA==] ECIT China Assistant: self remind U that :  have a music
+2014-08-17 10:26:28.044	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+6Jw8Vc89XXboAT7ONv/Ry+6MDKA==] Kan Chen: who is nommy gao
+
+2014-08-17 10:26:31.029	[Verbose]	Message sent.	[Ac+6Jw8Vc89XXboAT7ONv/Ry+6MDKA==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Kan Chen]: I find 1 of it.That is nommy gao (bj fesco)(a-soga),who is in msit china china.</p>

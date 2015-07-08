@@ -1,0 +1,16 @@
+﻿2014-08-17 09:30:17.484	[Verbose]	Logger created.
+2014-08-17 09:30:17.484	[Information]	Initializing.
+2014-08-17 09:30:17.484	[Verbose]	Creating shell.
+2014-08-17 09:30:17.484	[Verbose]	Starting shell.
+2014-08-17 09:30:17.484	[Verbose]	Creating robot.
+2014-08-17 09:30:17.484	[Information]	Initialized.
+2014-08-17 09:30:33.293	[Critical]	System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+   at System.Collections.Generic.Dictionary`2.FindEntry(TKey key)
+   at System.Collections.Generic.Dictionary`2.ContainsKey(TKey key)
+   at Microsoft.Ecit.China.Tools.EcitAssistantRobot.Robot.KanRobotCore.RobotK.Query(String query, String participantName, String uri) in c:\robot\EcitAssistantRobot\EcitAssistantRobot\Robot\KanRobotCore\RobotK.cs:line 74
+   at Microsoft.Ecit.China.Tools.EcitAssistantRobot.Robot.EcitAssistantRobotImpl.Run(IShell shell, ILogger logger) in c:\robot\EcitAssistantRobot\EcitAssistantRobot\Robot\EcitAssistantRobotImpl.cs:line 151
+   at Microsoft.Ecit.China.Tools.EcitAssistantRobot.Program.Main(String[] args) in c:\robot\EcitAssistantRobot\EcitAssistantRobot\Program.cs:line 34
+2014-08-17 09:30:33.293	[Information]	Shutting down.
+2014-08-17 09:30:33.293	[Verbose]	Stopping shell.
+2014-08-17 09:30:33.293	[Verbose]	Stopping logger.

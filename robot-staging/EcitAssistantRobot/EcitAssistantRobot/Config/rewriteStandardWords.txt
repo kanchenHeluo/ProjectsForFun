@@ -1,0 +1,39 @@
+﻿II|2
+sde|software develop engineer|software develop engineers
+dev|developer|developers|Software Developer|devs
+tester|testers|Software Development Engineer for Test|sdets
+intern|interns
+lead|leader|led|leaders
+program manager|pm|project manager|program managers|pms|project managers
+male|men|man|boy|boys|uncles
+female|women|woman|lady|ladies|girls
+Global|WorldWide|World Wide|World-Wide
+FTE|FTEs|Employee|People|Staff|Member
+ECIT|Enterprise Commerce IT|Enterprise Commerce Information Technology
+GPM|Group Program Manager|Group Project Manager|Group Manager
+DUT|Dev Unit Test
+DIT|Dev Integration Test
+SIT|System Integration Test
+PO|Purchase Order
+POLI|Purchase Order Line Item
+SO|Sales Order
+SOLI|Sales Order Line Item
+SKU|Stock Keeping Unit
+BAM|Business Activity Monitoring
+MSL|MSLicense|Microsoft License
+SD|Solution Delivery
+SE|Service Engineering
+VL|Volume License
+NGVL|Next Generation Volume License
+DOMO|Data Operations Management Organization
+Shipments|Fulfillments
+SA|Software Assurance
+mentor|peer mentor|mentors|peer mentors
+onboarding|onboard
+has|have
+you're|you are
+clever|smart
+Org|Organization|Department|Team|Group
+you|u
+are|r
+why|y

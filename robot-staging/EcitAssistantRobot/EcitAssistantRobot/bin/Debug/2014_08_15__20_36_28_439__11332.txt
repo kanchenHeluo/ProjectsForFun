@@ -1,0 +1,30 @@
+﻿2014-08-15 08:36:28.443	[Verbose]	Logger created.
+2014-08-15 08:36:28.443	[Information]	Initializing.
+2014-08-15 08:36:28.444	[Verbose]	Creating shell.
+2014-08-15 08:36:28.452	[Verbose]	Starting shell.
+2014-08-15 08:36:28.453	[Information]	Starting Lync shell.
+2014-08-15 08:36:28.453	[Verbose]	Killing Lync processes.
+2014-08-15 08:36:28.462	[Verbose]	Getting Lync client.
+2014-08-15 08:36:33.165	[Verbose]	Initializing Lync client.
+2014-08-15 08:36:33.190	[Verbose]	Creating robot.
+2014-08-15 08:36:33.190	[Information]	Initialized.
+2014-08-15 08:36:33.195	[Verbose]	LyncClient_StateChanged	Uninitialized->Initializing
+2014-08-15 08:36:33.209	[Verbose]	LyncClient_StateChanged	Initializing->SignedOut
+2014-08-15 08:36:33.272	[Verbose]	LyncClient_StateChanged	SignedOut->SigningIn
+2014-08-15 08:36:59.851	[Verbose]	LyncClient_StateChanged	SigningIn->SignedIn
+2014-08-15 08:37:02.930	[Verbose]	ConversationManager_ConversationAdded	Ac+4hYDGVoEeKV3BTXC1T5PqAewuSg==
+2014-08-15 08:37:02.954	[Verbose]	Conversation_ParticipantAdded	ECIT China Assistant
+2014-08-15 08:37:03.006	[Verbose]	Conversation_ParticipantAdded	yanbol@microsoft.com
+2014-08-15 08:37:03.328	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+4hYDGVoEeKV3BTXC1T5PqAewuSg==] yanbol@microsoft.com: do you know kan
+
+2014-08-15 08:37:05.443	[Verbose]	Message sent.	[Ac+4hYDGVoEeKV3BTXC1T5PqAewuSg==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [yanbol@microsoft.com]: There is  kan chen(kanchen), who sits on beijing-bjw-1/11372</p>
+2014-08-15 08:37:12.530	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+4hYDGVoEeKV3BTXC1T5PqAewuSg==] Yanbo Liu: do you known kan
+
+2014-08-15 08:37:14.668	[Verbose]	Message sent.	[Ac+4hYDGVoEeKV3BTXC1T5PqAewuSg==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Yanbo Liu]: There is  kan chen(kanchen), who sits on beijing-bjw-1/11372</p>
+2014-08-15 08:37:24.240	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+4hYDGVoEeKV3BTXC1T5PqAewuSg==] Yanbo Liu: do you know vincent
+
+2014-08-15 08:37:24.713	[Verbose]	Message sent.	[Ac+4hYDGVoEeKV3BTXC1T5PqAewuSg==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Yanbo Liu]: There is  vincent feng(vifeng), who sits on beijing-bjw-1/11405</p>
+2014-08-15 08:37:32.768	[Verbose]	InstantMessageModality_InstantMessageReceived	[Ac+4hYDGVoEeKV3BTXC1T5PqAewuSg==] Yanbo Liu: do you know vencent
+
+2014-08-15 08:37:33.210	[Verbose]	Message sent.	[Ac+4hYDGVoEeKV3BTXC1T5PqAewuSg==] ECIT China Assistant: <p style='font-size:20;font-family=Corbel;font-weight:bold;color=#007500;'>To [Yanbo Liu]: Sorry I donnot know, you can teach me~ you just reply:'no,'+ans is ok</p>
+2014-08-15 08:37:55.458	[Verbose]	ConversationManager_ConversationRemoved	

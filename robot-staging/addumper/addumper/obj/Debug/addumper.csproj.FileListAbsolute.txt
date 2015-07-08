@@ -1,0 +1,5 @@
+C:\Users\kanchen\Desktop\Robot\addumper\addumper\addumper\bin\Debug\addumper.exe
+C:\Users\kanchen\Desktop\Robot\addumper\addumper\addumper\bin\Debug\addumper.pdb
+C:\Users\kanchen\Desktop\Robot\addumper\addumper\addumper\obj\Debug\addumper.exe
+C:\Users\kanchen\Desktop\Robot\addumper\addumper\addumper\obj\Debug\addumper.pdb
+C:\Users\kanchen\Desktop\Robot\addumper\addumper\addumper\obj\Debug\addumper.csprojResolveAssemblyReference.cache

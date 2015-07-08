@@ -1,0 +1,276 @@
+﻿hello	hello~ My name is Gems, I know basic people information in mist china and ecit. How can I help you?
+Can you tell me who is the GPM of our Org?	Jenny Jiang(jejiang) is the GPM of ECIT COGS VL Eng Chi.
+How many SDETs we have in ECIT china?	We have 2 SDETs in ECIT China. They are Lei Lu(leilu), Vincent Feng(vifeng)
+Can you tell me the alias of the EA Ordering Consolidation PM?	He is Nakul Madaan(nakulm) 
+What's the primary requirements in GallaCake FY15 NQR?	Refinement of order process, support true-up order.
+Can you tell me the P0 and P1 requirements of 21V NQR?	Here are the P0 and P1 requirements of 21V NQR: Turn off the billing plan auto-generation and send from MSL.
+When is the EA Ordering Consolidation Sprint 4 code complete date?	It is Sep 15th 2014.
+What is the difference between Step-up and True-up?	Step-up means customer wants to buy a higher edition of the production that he/she has already bought; True-up means customer wants to buy more amount of usage of a production that he/she has already bought.
+What does Select 6 means?	"Select 6" is a general program for use by large companies. 
+What is an Agreement?	when a customer decides they want to deal with microsoft through the volume licensing channel then the first thing they need to do is sign a contract with microsoft. this is called an agreement within msl and basically is a list of all the details from the contract. 
+how to train you?	that's a sceret!
+Good morning.	Good morning~
+Good evening.	Good evening~
+Good night.	Good night~
+Good Afternoon.	Good Afternoon~
+bye bye	bye bye, miss you!
+wow, that's cool.	haha, is it? I like cool things.
+who is the sponsor for ecit global	bj moore
+do you know bj moore	bj moore is ecit global's sponsor
+do you know what is mach	mach is a program which ftes in this program do several rotations in the first two years.
+what is kick off	kick off is a celebrating party hold by mist
+do you know what is kick off	kick off is an event that every department hold for celebrating every fiscal year.
+when kick off start	kick off begins at august 23th
+how many teams will attend kick off	there possibly should be 4 groups attend.
+how old are you	i am less than one month
+how old is kan chen	kan chen is 25 years old
+do you know who called palani mani	they are redmond devs who working on efficiency
+who is kan	kan is da wang!
+then	what?
+?????	no
+you are so stupid	wuwu, you born me how can you say that
+you are so stupid	how dare you say that
+bye bye	bye bye, miss you!
+moximoxi	you think you can say better japanese than me?!
+what's your name	My name is ecit china assistant!
+who is your mum?	Plz call her: Queen my lord~ =~=
+do you know who is jenny	jenny is ecit china's group manager, she is a charming lady.
+how long has tommy liu been in microsoft	i think he worked a long time, should be more than 4 and a half years~
+you are a super bt robot?	yes super super bt o!
+you are a super bt robot	no no no, i am more cute and mengmengda than bt!
+you are a super bt robot	ahaha, you get it!I am bt ecit robot!
+huh	huh?
+who're you	i am super brilliant robot gems
+cool	yeah
+...	......
+;)	:)
+(k)	(k)
+(k)(k)	(k)(k)
+haha	what are you laughing about?
+ha ha	what are you laughing about?
+niubility!	thanks!
+but	but what?
+555	don't cry, baby~~
+hehe	he he
+haha	ha ha ha
+aha	what?
+good	thanks
+well done	thanks!
+how many	how many what?
+do you love kan?	yes of course! she's my mum!
+see you	bye
+oh shit!	calm down, the world is fair, the live is beautiful, please relax and take it easy.
+shit	calm down, the world is fair, the live is beautiful, please relax and take it easy.
+fuck	calm down, the world is fair, the live is beautiful, please relax and take it easy.
+asshole	calm down, the world is fair, the live is beautiful, please relax and take it easy.
+are you alive?	yes!
+keep alive	that's required!
+hahaha	why are you so happy?
+i love kan	yes, me too!
+are you handsome	you guys are so brilliant, i'm the most handsome robot of course.
+i think i'm more handsome	too young too simple, sometimes naive!
+how many eyes you have?	3
+why do i have 2 and you have 3?	i am better than humans!
+ok lets try again	sure
+when is my next meeting?	sorry - your calendar is not shared with me. you need to check yourself :(
+smile	:)
+i am bored!	how can i help you?
+did i train you for this earlier?	oops sorry, one more time please :( .
+did i train you about it?	oops sorry i missed it, i also acts like human sometimes :(
+do you smoke	you are funny ;)
+thanks	Not at all!
+can you tell me my credit card number?	are you sure? isnt it a pii data ?
+you're alive	yes, i'm here
+could you do me a favor?	of course!
+wahaha	what are you laughing about!?
+halou	halou
+wuwu wu	wuwu why
+where are you from	i am from ecit china!
+how are you going	going where?
+in the future	in the future, every thing will go to cloud.
+do you know how microsoft will be in the future	microsoft will go cloud first and mobile first in the near future
+what is the microsoft strategy in the future?	cloud first, mobile first
+microsoft future	serve the world. cloud first and mobile first for near future
+when do you have lunch every day?	about 12:00 ~
+when do you have dinner every day?	about 5:30-6:00~
+when do everyone come to office morning?	about 10:00-10:30, and some one will be early as 8:00~
+how many foreigner in ecit china	there are currently 4 people. nakul from india, and jenny , tommy, lynn as foreigner in some meaning.
+who is the oldest dev in ecit china?	oldest dev? i think according to microsoft work time, should be justin li
+who is the oldest pm in ecit china?	according to microsoft work time, i think it is nakul.
+how long has jenny been working in microsoft	jenny work in microsoft for about 6 years!
+how long does jenny work for microsoft/	it is about 6 years!
+how long jenny work for microsoft	it is about 6 years
+you like me very much	yes, i like you so much
+are you girl?	you tell me
+where're you from?	i am from ecit china!
+how's going	good, thanks!	lala very good!
+tell me a joke	please speck this aloud: shall by too dull doll by too jack won, dolphin long can jim shall by too low, shall by too when dull low, doll car low, dolphin long doll ham eason: "more power!"
+do you know music?	yes i know guitar and piano!
+what do you know about music?	i know guitar and piano!
+who is most handsome guy in ECIT China?	You! definitely!
+:)	:)
+:D	:D
+:|	:|
+Why are you so Diao?	You can you up
+how many interns does ecit china have	there are two
+no zuo no die	why you try?
+do you know your owner?	It's Kan!
+do you know your master?	It's Kan!
+T_T	Don't cry, baby~~
+T^T	Don't cry, baby~~
+who do you love most in ecit  china?	it definitely should be my mom!
+(@)	miao~
+sing a song	i swear~~
+sing a song	i swear~lalala~la~lalala~la~
+can you dance	of course, left left right right go turn around gogogo!
+who is nemo's girl friend?	it is zack!
+who is nemo's gf?	it is zack!
+coool	yeah!
+cooool	yeah!
+coooool	yeeeeeeah!
+cooooool	yeeeeaaaaah!
+give me a high five	yeah!
+who's tuhao?	tiger and vincent are tuhao
+it's not a nice day	what's wrong?
+what's wrong	I get sick .. hmm..
+who's super tuhao?	tiger and vincent are tuhao, plus dalai	tiger and vincent are tuhao plus dalei is super tuhao
+the leadership team of ecit china	jenny is gpm and tommy is leader of the team
+what's the relationship between liu yang and tommy liu	tommy liu is liu yang's manager
+do you love paint?	i love paint so much! because my mom loves it!
+do you love kanchen?	yes of course! i love her as she is my great mom!
+who's our gm?	tony ulkekul is our gm.
+akjdfkjef	haha
+aaksdfsdfwe	what r u saying?
+are you there?	yes, how can i help you?
+hi gems	hi~
+sos	somebody calls 911!
+moximoxi	you think you can say better japanese than me?!
+what's your name?	ecit assistant robot
+wow, that's cool.	haha, is it? I like cool things.
+who is the sponsor for ecit global	bj moore
+do you know bj moore	bj moore is ecit global's sponsor
+do you know what is mach	mach is a program which ftes in this program do several rotations in the first two years.
+what is kick off	kick off is a celebrating party hold by mist
+do you know what is kick off	kick off is an event that every department hold for celebrating every fiscal year.
+when kick off start	kick off begins at august 23th
+how many teams will attend kick off	there possibly should be 4 groups attend.
+how old are you	i am less than one month
+You are so beautiful.	Thanks~ momo da!
+You're so clever.	Really? I read too little, don't fool me~
+you're so stupid.	Hmm .. I think maybe I am just a little, little younger than you ~.~ Plz praise me aoao..
+I love you.	I love you, too.
+bye bye	bye~~~ miss you!
+bye	byebye! miss you!!
+88	88~
+hi	hi~ nice to meet you~
+nice to meet you	ha ha~
+how are you?	fine~ I am super cute assistant! you can call me 'Queen'!
+how are you today?	fine, and you?
+do you think jenny does a good job?	of course! all of us are the best.
+do you think tommy does a good job?	of course! all of us are the best.
+how to join ecit?	just go to ecit and say to bj moore that you are a talent!
+who is in ecit?	There are 16! Justin Li, Dalei Yang, Bin Gu, Paul Li, Weiwei Ding, Jenny Jiang, Wayne Xu, Li Dong, Kan Chen, Lei Lu, Liu Yang, Vincent Feng, Yanbo Liu, Lynn Zhu, Tommy Liu, Tiger Ren from ecit china.
+fine	enm, today is a lucky day! I know ecit people's basic information~
+What is everything going on today?	greate!
+Do you know what the weather like today?	No, you know that I donnot get the search engine interface.
+what do you know about ecit?	I know ecit people's basic information, and some project-related words about it.
+what do you know?	I know some basic people information about ecit.
+which country do most people from ecit china come from?	China!
+who are you	I am super brilliant robot Gems!
+who is gems	Gems is me! Me is Gems! lalala~
+What is DOMO? DOMO is short for Data Operations Management Organization.
+What is SD?	SD is short for Solution Delivery.
+What is SE?	SE is short for Service Engineering.
+what is DUT?	DUT is short for Dev Unit Test.
+what is DIT?	Dev is short for Integration Test.
+what is SIT?	SIT is short for System Integration Test.
+what is BAM?	BAM is short for Business Activity Monitoring.
+What is ECIT ?	Enterprise Commerce IT(formerly VLIT) was formed in July 2010 in response to the company's need to have a single dedicated group in IT responsible for the 'Order to Fullfillment' part of the IT Lifecycle. Currently there are about over 350 FTES and over 1200 vendors Global.We support pricing, contract negotiation, order management, product fulfillment, entitlements, and invoicing processes.
+What ECIT ?	Enterprise Commerce IT(formerly VLIT) was formed in July 2010 in response to the company's need to have a single dedicated group in IT responsible for the 'Order to Fullfillment' part of the IT Lifecycle. Currently there are about over 350 FTES and over 1200 vendors Global.We support pricing, contract negotiation, order management, product fulfillment, entitlements, and invoicing processes.
+ECIT	Enterprise Commerce IT(formerly VLIT) was formed in July 2010 in response to the company's need to have a single dedicated group in IT responsible for the 'Order to Fullfillment' part of the IT Lifecycle. Currently there are about over 350 FTES and over 1200 vendors Global.We support pricing, contract negotiation, order management, product fulfillment, entitlements, and invoicing processes.
+What is ECIT ECE?	it is short for Enterprise Commerce IT-Enterprise Commerce Ecosystem.
+What ECIT ECE?	it is short for Enterprise Commerce IT-Enterprise Commerce Ecosystem.
+ECIT ECE?	it is short for Enterprise Commerce IT-Enterprise Commerce Ecosystem.
+What is ECE?	it is short for Enterprise Commerce IT-Enterprise Commerce Ecosystem.
+What ECE?	it is short for Enterprise Commerce IT-Enterprise Commerce Ecosystem.
+ECE	it is short for Enterprise Commerce IT-Enterprise Commerce Ecosystem.
+what project ecit do?	ecit support pricing, contract negotiation, order management, product fulfillment, entitlements, and invoicing processes. what means that, they do things related to 'License'.
+What's the history of ECIT?	Enterprise Commerce IT (formerly VLIT) was formed in July 2010 in response to the company's need to have a single dedicated group in IT responsible for the 'Order to Fulfillment' part of the IT Lifecycle. Since our small beginnings we have grown into an organization of over 350 FTEs (and over 1200 Vendors) consistently delivering on our promises by developing and delivering quality engineering solutions to meet the needs of our internal customers including  Operations, WWLP, MBS, OEM, Marketing Teams and the Engineering Groups. 
+What's the main project of ECIT China now?	Should be GallaCake.
+Who is the top manager of ECIT Global?	I think he should be B.J. Moore, who is ECIT VP, and directly reports to the CIO.
+Who is the GM of ECIT Global?	It's Tony Ulkekul. You know what? He has a Chinese name, ?ぱ棚! See, complicated enough, huh? LoL
+Who is Tony Ulkekul?	He  is general manger in ECIT COGS-VL Eng-US.
+Who is the GPM of ECIT China?	What? Don't you know that? It's Jenny!
+Who is the top manager of ECIT China?	What? Don't you know that? It's Jenny!
+What is Gallacake?	Gallacake refers to 'Gallatin' and 'Mooncacke', which refers to Office 365 and Azure product in China.
+What is NGVL?	NGVL is short for Next Generation Volume License, it is the main project which ecit focuses on.
+What's MSL?	MSL is an application that Microsoft uses to track large volumes of sales to both end customers and re-sellers. It is designed primarily for use in the Volume Licensing space. The primary product sold through MSL is not a physical box set with DVD’s and Manual’s, it is a license.
+What is a license?	A license is simply the right to use a piece of software on one computer. For example a customer might buy 100 Windows Vista Licenses. Once the purchase has been made then that customer has the right to install Windows 7 on 100 computers. The license is a virtual entity and doesn’t exist (by default) as any printed entity. There are two major areas maintained by MSL (Agreements and Purchase Orders) with links to dozens of other systems to support these.   
+What is a Participant?	Any Person or Company that appears on an agreement is called a Participant. There can many types of Participant; here are some of the main ones: Primary: This is the end customer who will be receiving the bills. Bill To: This is who will actually be charged. In some cases there is third part working with Microsoft so they will be billed rather than the end customer. Software Advisor: Sometimes there is a 3rd party on an agreement who acts as an advisor on which is the best software to buy for their needs. Notices Correspondent: This is the person who should be informed if there are any changes to the agreement or any other details that effect it.  
+What is a Program?	Microsoft organizes its Volume Licensing sales under a series of Programs. Basically these define roughly what sort of customer is involved and what sort of product they can buy. For Example:  The “Campus 3” program is one designed for Universities and allows product to be bought at different rates for Students or Faculty.  “Select 6” is a general program for use by large companies.  “Open Volume Subscription” is a program which allows Companies that don’t have consistent numbers of employees to ‘rent’ software for a year at a time rather than having to buy it outright (some companies might have 10,000 employees one year, 5,000 the next and 9,000 the year after and don’t want to have to buy a fixed number of licenses). uEA(Updated EA) is a program which enables a user to transition his on premise products to online products. 
+What is a Purchase Order?	A purchase order is simply an order for Licenses from Microsoft. It contains the Agreement Number the order is entered against, the address if anything needs to be shipped on the order, and a list of Products and Quantities that are required.  
+What is a Channel Partner?	A Channel Partner is basically a customer. Only very large companies tend to deal with Microsoft’s Volume Licensing Programs directly. Most will go through a middle man or agent that is called a ‘Channel Partner’. Basically these are companies which work with Microsoft in various parts of the world to sell Microsoft’s products to smaller companies.  
+What is a Shipment?	Shipments and Fulfillments are the same thing. Any product that has a physical presence (i.e. a box set with a DVD, or a Book) will need to be shipped manually to a customer.  
+What is a Subscription?	Microsoft has several products that are sold in Subscription form. The first part of the Subscription is shipped immediately, and then during the years that follow new updates become available and are shipped automatically to the customer. An example of this is the MSDN (Microsoft Developer Network) – The user got a full set of DVD’s when they joined and then every month updated DVD’s were sent out with new versions of software etc. The customer only had to order the Subscription – after that all the shipments for upgraded disks were handles automatically by MSL.  
+How many ways can purchase order be created?	It can be created through: MOET tool Channel partners own internal computer systems, programmed to output orders in a specific format(EDI or XML). eBis tool eMSL tool  
+What is MOET?	MOET is a tool for entering orders that is maintained by Microsoft. Accounts are set up on the tool for Channel Partners and they can then log in and enter orders against Agreements held by their customers. For testing purposes OPS (Operations user) accounts are used by the test team as these allow the tester to Impersonate different Channel Partners and submit orders against any Agreement in the MSL system.  
+What is EDI?	This is a text based file format which is used to enter orders. It is fixed width which makes it difficult to deal with. By the time an EDI order has been picked up by eBis and delivered to MSLs Batch Router it will have been converted to XML format and will be readable to the naked eye. Test will deal mostly with the XML files at this point rather than the EDI version.  
+What is the Batch Router?	While it is referred to THE “Batch Router” it is actually a collection of a half dozen servers each with their own function. The different Batch Router functions are: EDI850Service: New orders are received as XML files and this batch router service will parse these orders and copy them into the MSL database. MSL_ShipToVendorSrvc: When an order contains an item that needs to be physically shipped a request is sent to this service which will send out the request to the actual vendor company that needs to ship the item. MSL_VendorResponseSrvc: After the shipment has been made by the vendor company they will send back a confirmation. This Service will process that confirmation and update the records in MSL. MSL_AgreementPOSrvc: This service actually has a number of tasks. The main one is that is allows other apps. like ECM to create agreements and will process them before adding them to the MSL database. MSL_SMCShipmentRequestSrvc: When a shipment is made through the eMSL page this service will process it and pass it on through the MSL_ShipToVendorSrvc to be fulfilled.  
+Where can we see MSL related environments?	Type http://lposeweb in IE. Check for the environments available, click on the link.  
+What is the Middleman server?	The middleman server is called this because in Production the different parts of MSL sit on different domains and for security reasons there is a single server with limited functionality that sits in the middle and can perform certain tasks which require access to both domains. No other server in the environment should be able to access both domains.  
+What is the MSLInterface database?	The MSLInterface database is the location where data arriving in or departing from MSL is stored. For example when an order XML arrives from a Channel Partner it will be read by the batch router which will write it into a table here in the MSLInterface database. For here its contents can be processed and it can be copied over to the main database as long as there is the minimum amount of valid data.  
+What is the MSLicense database?	This is the main database used in MSL. This is where the Agreements are stored, the main purchase order and revenue tables are stored, and it is where MSL does its main processing.   
+What is eMSL?	eMSL is a webpage application which allows a user to view/edit data  or perform functions such as: Add a prior agreement: Sometimes a user will be moving from one agreement to another. It may be necessary to keep a record on the new agreement of the previous agreement number so that all the benefits the customer has already built up can be tracked. For example on the ‘Select Plus‘ program a customer will receive better prices if they buy a very large volume of product. If they had previously been on a ‘Select 6’ agreement it will be necessary to log this as a Prior Agreement on the new ‘Select Plus’ agreement so that the correct prices will be charged. Organization: This area will allow the user to add or edit organizations that Microsoft deal with to the database. These are the entries that will be used as ‘Participants’ on agreements. Subscriptions: This area allows the user to View existing Subscriptions or create new ones without having to create a whole Purchase order. Shipments: This area allows the user to View existing Shipments or create new ones without having to create a whole Purchase order. Users: This is an admin area where users who have admin privileges can grant or remove access from other users. Orders: This area is currently being updated to add the capability of creating new purchase orders (this is current done through the VBClient). It also has some specific functionality for Solicited orders which is functionality specifically for Open Value programs and beyond the scope of this doc.  Contacts: This allows the user to create records of people they deal with while processing agreements. Each Contact will be associated with one or more organizations and can be used as a participant on an agreement. Trade Compliance: These options will produce reports which list if there is any problem with any of the organisations. For example there are laws in the U.S. restricting how business can be carried out with certain countries or with certain individuals. Cycle Pull: This functionality works the Subscriptions. Basically Microsoft will run a Cycle Pull every month and it will look at each Subscription in the system and check to see if there is a new fulfilment available for it. If there is then it will create a new system to the customer automatically.  
+What is the VBClient (aka the VBUI)?	The VBUI is a Visual Basic application used in Microsoft to manage Purchase Orders and Agreements in the MSL database. PO’s and Agreements can be added or existing ones can be amended or ended. There are other areas that appear in the VBUI like Customer Information but these are a legacy of the past with this functionality having been moved on to other applications like the eMSL. When a fix is made to the VBUI during a test cycle everyone will need to remove the old VBUI from their machine and install a new version (available from the http://lposeweb site). 
+What is a Usage Date?	This is the date the order should take effect from. When an order is made the user usually receives a number of years coverage period. This period will start from the date of the ‘usage date’ on the order.  This will also affect pricing. For example one of the Business People in Microsoft may be contacted by a customer who tells them that there was an error and an order they made six months was not processed correctly. The Microsoft Employee will then enter this order in the VBUI and backdate the Usage Date to when it should have been entered six months ago. When MSL processes the items on the order it will price them as if the order was entered six months ago – usually this will mean the price used will be lower than the current price.  
+What is a Coverage Period?	Most Microsoft products come with a support period. This is usually three years although some products only have one year and some have a variable length term. The coverage period will be set to start on the usage date and run for its entire length and can be viewed on the Purchase Order Line Item tab of the VBUI. It may be different for the different SKUs on the order.  
+What is SKU?	SKU stands for ‘stock keeping unit’. This is basically a Serial Number used to identify a product. There are thousands upon thousands of SKUs in the System. There can be multiple different SKUs in the system for exactly the same product – the only difference might be the program and price conditions it is available under. When a SKU is ordered MSL will look up its price based on the Agreement details, the Program details and any special pricing considerations entered by the user.  
+What is an offering type?	An offering type varies from program to program, and is used differently for different programs. For example, on the ‘Campus 3’ program used to buy software by Universities there are two basic offerings – Faculty and Student. While the SKU would be the same choosing the Faculty offering would lead to the order being priced less than choosing Student.  
+What is a Billing Option?	A billing option is the terms under which the order will be paid for. Some examples are: Prepay: The entire amount will be charged immediately. For example if they ordered 50 of the product at $20 each then they would immediately receive a bill for $1,000. Annual: For annual billing the customer is charged over the term of the agreement on a yearly basis. In the above example (assuming a 3 year period on the agreement) the Customer would only receive a bill for $333.33 now and would receive another bill for the same amount next year, and another the year after. Quarterly: Customer can pay in each quarter. Semi-annual: Yearly twice. 50-50 split first year Ramp percentage Ramp Value  
+What is uEA and Why is it required?  The technology industry is in the midst of a transformation to cloud computing and online services that will fundamentally change the way customers use software. Microsoft has a tremendous opportunity to strengthen our customer relationship, while winning share from competitors. IDC estimates that online business applications are currently a $17 billion market growing 26% annually.   The June 2011 launch of Office 365 will replace Microsoft Business Productivity Online Services (BPOS), the current online service offering that delivers hosted communication and collaboration tools. BPOS is our Enterprise class software delivered via subscription services managed in Microsoft datacenters.  The BPOS offering includes the following: Microsoft Exchange Online: a hosted enterprise messaging solution providing e-mail security, “from-anywhere” access to email. Microsoft SharePoint Online: provides a central location where employees can efficiently collaborate with team members, find organizational resources, manage content and workflow. Microsoft Office Communications Online: delivers robust instant messaging (IM) and presence functionality that enables real-time person-to-person communication.  Microsoft Office Live Meeting: connects you with your colleagues and engages your customers through real-time meetings, training sessions, and events.  The Office 365 launch recognizes the increased emphasis and market demands for online services.  Microsoft sees the need to change the way in which we sell licenses (access) to our online services instead of treating these services as an optional offering with on-premise based licensing. This transformation challenges the current business models as BPOS is sold to Enterprise customers via the Enterprise Agreement (EA), Enterprise Agreement Subscription (EA Sub) and to the academic segment via Campus and School Agreement (CASA). For customers where the EA is not a good fit or existing Select Plus and Open Value customers, we offer BPOS via the Microsoft Online Subscription Agreement (MOSA).  We will continue that model for Office 365 as well.  As our initial launch strategy, we offered BPOS to our Enterprise customers with an existing investment in perpetual licenses enrolled under Software Assurance (SA) through the Bring Your Own CAL “promotion.” BYOC allowed customers to “step up” from the Core or Enterprise CAL Suites at a lower price point through purchasing a User Subscription License (USL) for SA subscription. These USL for SA BPOS purchases in EA required a prerequisite CAL with SA or a subscription CAL.  Enterprise customers were still required to maintain a CAL Suite license with active SA for all qualified desktops to be eligible to buy BPOS as a USL for SA subscription.  A consistent user experience across delivery models is required for companies to focus more on user and business productivity and less on the technology deployment.  More importantly, the flexibility of being able to change deployment models ensures that the system can meet the company’s changing business needs e.g. as divisions are added, moved offshore, acquisitions occur, etc.  This capability not only offers the benefits of both software and online services, but it helps to mitigate the customer’s risk of feeling locked into a single delivery method.  As Microsoft began to expand its portfolio of online services offerings to include Office 365, Office Web Apps Components (WAC), Windows Intune, Windows Azure, SQL Azure, and others, licensing agreements and Use Rights needed to be updated to better respond to the competitive pressure from companies like VMware and Google Apps.    Thus, Microsoft redesigned the Microsoft Enterprise Agreement (“Updated EA”) with the goal of easing our customer’s transition to online service terms while respecting their past investments. The Updated EA program/agreement enhancements were guided by the following principles: Optimize for a new model and incent customers to migrate to 'the cloud’ Enable a sustainable mixed (hybrid) customer environment of online and on-premise Create a simple customer and sales field bridging motion from on-premises to online Recognize customers’ existing investment and provide psychology of a good deal Modernize pricing, procurement, and adoption (but not at the expense of gross margin dollars) Balance share and gross margin dollars  
+What is CPS?	CPS is Customer Pricing Sheet. This is the final output from MS Quote application. It is basically a file which has all the details about the quotation generated for a customer.  
+How is MSL integrated with MS Quote using CPS?	MSQuote generates CPS xml and is exposed through a broker service. MSL can get this xml using proposal ID of the generated xml. POLIs can be uploaded from MSQuote to an MSL Purchase Order.  
+What are other ways by which MSQuote is integrated with MSL?	MSQuote use RO services exposed from MSL which gives details of opportunities for an agreement.  
+What is a transition?	For a User who purchased on premise products with an agreement, Microsoft gives opportunities for him/her to change his product to a corresponding OLS(Online Service) SKU/s. Every on premise SKU(Source) will be defined with Transitions and Targets. Transition defines rest of the period in a particular year in which the User does a transition. Target SKU will be actual SKU which will continue to the rest of the Agreement period.  
+Describe E6 & ESU and their differences E6 & ESU are programs. E6 program contains agreement with software assurance(SA). ESU contains only license, no SA attached with it. ESU is more like a rental agreement scenario where every year you pay for the license and use it, but no other benefits are attached with it. For EA, Total cost for 1 year  = (License cost)/3 + 12 (Software Assurance cost) Total cost for 3 years = (L/3 + 12 SA) * 3 For ESU, Total cost for 1 year =  (License cost)/3 Total cost for 3 years = (L/3) * 3  
+What is Software Assurance? How is it different from License?	For any product, there will be two components attached with it – license and Software Assurance. License is for life term of the product, whereas an SA is mostly given for a period of 3 years. During the SA period term, if there is an update of the software, the User will be able to get new version. For ESU, this option won’t be available.  
+What is CAL?	CAL is Client Access License.   
+What is VL?	VL is short for volume license.
+Explain an agreement process in Volume Licensing: A customer who wants to do business with MS should initially have an agreement. With an agreement, initial purchase order should be a BEC(Basic Enterprise Commitment) agreement. Once he has a BEC order, based upon the agreement, User can do a transition to move to OLS products.  
+What is difference between User License and Device License?	Our initial products are all desktop based. The software will be installed into respective local computers and used. Licenses are issued based upon number of devices in which product is installed.  But, with the introduction of Cloud products, all Users will be entitled to use any of his OLS SKUs based upon User Licenses. The product doesn’t have to be installed in their local computer. User License is the key to distribution of this software.  
+How many types of orders are possible for a User?	BEC(Basic Enterprise Commitment) TUP(True up) NE(New Order)  
+What is a STEP-UP order?	A product will have different editions when it is released. For example, Visual Studio 2012 had Ultimate, Professional, Express, Premium and Test Professional etc. There will be grading for these editions like Ultimate is higher and Premium is lower. Any Customer who initially brought Premium can then be upgraded to Ultimate using Step-up(SUP) order.   
+ What is a True-Up order?	Any customer who brought a specific number of licenses may be at a specific time needs more than what they have already ordered. Users will do a True-up at the end of the year saying that they have used more licenses than what they initially brought. It can be said as an Annual order submitted to account for any increase in Qualified Desktops, Qualified Users and/or Additional Products run since last anniversary. No True-Up orders are allowed for additional subscription licenses.  
+Difference between Requested Order service and Purchase Order?	MSL expose RO(Requested Order) service which is for external applications.  
+What are restatement and adjustment?	A transition order can be either restated to new or it can be adjusted to original order. For Ex: If customer has a product which needs to be transitioned to OLS product. Suppose, initially number of licenses for the product brought by the customer is 1000. If he is going for a transition of 100 licenses, new 100 licenses will be changed to OLS license as a True-up order. Rest of the 900 can be either restated to new order or adjusted to the previous Purchase Order.
+Difference between Direct Partner and indirect partner  
+What is a complex deal?	Any agreement which has a billing option of upfront payment is called as a complex deal.  
+What is Bridge CAL?	When a transition is happening, both Source and Transition may not have equal number of products. In such a scenario, Customer will need to get satisfied with the number of products which Microsoft offers.  Bridge CAL fill that bridge between the difference of number if products by adding extra products to the opportunity to transition.  
+What is EDS and NSR?	EDS is Exploded Display Suite and NSR is Non Participating Source Remainder. When we transition a Core CAL, only some of the products have corresponding OLS product and thus be able to transition, they are called as EDS. There will be some which do not have corresponding OLS product. These are called NSR  
+What is CASA?	Campus and School Agreement  
+What is MOSA?	Microsfot Online Subscription Agreement  
+What is USL?	User Subscription License is a service subscription-based license based on a per user License model: ? Monthly Subscription Pricing/Product Type ? Provides non-perpetual use rights ? Includes rights to the latest Microsoft software updates and upgrades ? May or may NOT include SA ? Generally not convertible to perpetual use rights through a buy-out  
+What is USL for SA?	Similar to a Subscription License but can only be purchased when assigned to a qualifying CAL with active Software Assurance coverage. Customer must maintain SA coverage during the term of the USL for SA.  
+What is NPR?	Non Participating POLI.  
+What is BYOC?	Bring Your Own CAL Program  
+What is TGA?	Target Arrears  
+What is POLI-R?	Poli relation ship. Relation ship between POLIs are given as TRN, TGT, SRC, BLI etc. This defines which is the source SKU, which is the corresponding Transition SKU, Target SKU etc  
+what is poli?	poli is short for purchase order line item.
+What is a mid-term order?	Any order which is submitted in the middle of an agreement year is called as Mid-term order. There is a compliance window which is 30-60 days prior to Anniversary of an agreement and 0-30 days prior to agreement and 23 days after agreement anniversary. These windows can be used for anniversary orders, which wont be possible in any other time during the agreement.  
+What is Usage Period Date?	Usage Period start date or system date. This is editable  
+What is Maximum Future Date?	 
+What is Order Process Date?	This is same as Usage Period Date, except that this is not editable.  
+What type of an order will be an anniversary order?	It will be always True-up.  
+What are standard and non-standard transitions?	For standard transitions, there wont be any charge attached, but non-standard will be always attached with more money.  
+What is a Blended CAL?	Not having full CORE CAL. Partial licenses of a CORE CAL and it doesn’t constitute a CORE CAL.  
+What is RNN & RTR?	RNN - Reservation Net New RTR – Reservation Based Transition  
+What is special price?	Special Price is defined at agreement level. This is done through VB UI tool.  
+what is so?	so is short for sales order.
+what is soli? soli is short for sales order line item.
+What is ARF agreement?	ARF belong to select plus.  
+What is Override Price? How is it different from special price?	Using override price option, ROC can override price defined for a POLI. Special pricing is done for the whole agreement, whereas override price is done at POLI level.  
+What is transition Opportunities? Explain the SP GetReconciliationOpportunities. Transition opportunities define the possible opportunity for an agreement to do a transition to OLS products. 
+How many fte in ecit?	Totally, there are 16 ftes, and 2 interns in China now.
+How many people in ecit global?	Totally, there are about 350 ftes, and 1200 vendors in ecit global now.
+how long ecit china begins?	ecit china starts for about less than a year.	
+What do you think of Jenny Jiang?	Jenny Jiang is a good GPM! I really appreciate it.

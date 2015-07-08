@@ -1,0 +1,19 @@
+﻿Name	Gender	Hometown	Title	ProjectsWorkedOn	ProjectsWorkingOn	Onboarding	Mentees	Mentor	SitOn	nationality	ReportTo	TeamLocation
+Jenny Jiang	Female	SiChuang, Chongqin, China	GPM	Global Migration, HRStaffing, MDS, EBI	Gallacake				A1	USA	Tony	ecit china
+Tommy Liu	Male	Wuhan, Hubei, China	Senior Dev Leader	Global Migration, HRStaffing, MDS, EBI	Gallacake	1/13/2011			B2	USA	Jenny Jiang	ecit china
+Nakul Madaan	Male	Hisar, Haryana, India	Program Manager, PM2, PMII	EBI, CBI	Order Convergence	10/1/2007	Ambuj	Rajesh	A3	India	Jenny Jiang	ecit china
+Lynn Zhu	Female	JiangSu, China	Senior PM, Program Manager	EBI, EBMS	GallaCake	4/29/2011			A4	Canada	Jenny Jiang	ecit china
+Lei Lu	Male	Hubei, China	SDET,tester	MDS, CBI, IPAM	Gallacake	4/18/2011	Tiger	Jeremy	A5	China	Jenny Jiang	ecit china
+Jason Duan	Male		SDE,dev		Efficiency				A6	China	Tommy Liu	ecit china
+Kan Chen	Female	Putian,Fujian,China	SDE,MACH,dev		Order Convergence	4/10/2014		Tiger ren	A7	China	Jenny Jiang	ecit china
+Justin Li	Male	Wuhan, Hubei, China	SDEII,dev	MDS	Gallacake	06/30/2006	Yanbo Liu, Weiwei Ding	Karen Toh	A8	China	Tommy Liu	ecit china
+Yanbo Liu	Male	Beijing, China	SDE,dev	MDS	Gallacake	8/26/2011	Joanne Shao	Justin Li	A9	China	Tommy Liu	ecit china
+Weiwei Ding	Male	Zhejiang, China	INTERN		Efficiency	6/24/2014		Justin Li	A10	China	Tommy Liu	ecit china
+Tiger Ren	Male	Wuhan, Hubei, China	SDE,dev	MDS, CBI, EBI	Efficiency	3/31/2011	Kan	Jason Yin	A11	China	Tommy Liu	ecit china
+Dalei Yang	Male	Beijing, China	SDEII,dev	EBMS, EBI, Big Data	Portal Consolidation,Gallacake	9/1/2011			A12	China	Tommy Liu	ecit china
+Vincent Feng	Male	Fujian, China	SDET,tester	EBI	Gallacake	1/4/2013		Rocky Zhang	A13	China	Jenny Jiang	ecit china
+Liu Yang	Female	Xi’an, Shanxi, China	SDE,dev	EBI	GallaCake	12/10/2012		Dalei Yang	A14	China	Tommy Liu	ecit china
+Li Dong	Female	Hubei, China	INTERN		Gallacake	6/24/2014			A15	China	Tommy Liu	ecit china
+Paul Li	Male	Jingzhou, Hubei, China	SDE,dev	Efficiency	Gallacake	1/6/2011	Li Dong		A16	China	Tommy Liu	ecit china
+Bin Gu	Male	Jingjiang, Jiangsu, China	SDEII,dev	EBMS, EBI, CBI, Big Data, MDS	GallaCake	2/28/2013			A17	China	Tommy Liu	ecit china
+Wayne Xu	Male	Tianjin, China	SDE,dev,MACH	IAPS, IT Dev Center, Autosite	Gallacake	7/1/2013		Dalei Yang	A18	China	Tommy Liu	ecit china

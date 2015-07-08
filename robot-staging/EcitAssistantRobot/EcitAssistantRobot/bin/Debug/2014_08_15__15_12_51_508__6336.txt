@@ -1,0 +1,7 @@
+﻿2014-08-15 03:12:51.512	[Verbose]	Logger created.
+2014-08-15 03:12:51.512	[Information]	Initializing.
+2014-08-15 03:12:51.513	[Verbose]	Creating shell.
+2014-08-15 03:12:51.529	[Verbose]	Starting shell.
+2014-08-15 03:12:51.532	[Information]	Starting Lync shell.
+2014-08-15 03:12:51.532	[Verbose]	Killing Lync processes.
+2014-08-15 03:12:51.547	[Verbose]	Getting Lync client.

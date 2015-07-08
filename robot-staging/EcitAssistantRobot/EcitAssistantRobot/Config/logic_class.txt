@@ -1,0 +1,14 @@
+﻿S#MSIT china =CCRM ERP China G&A,CN-WIN Plan Ecosystem,CRM - China,DAX-AiA-PUB BD-CN,ECIT COGS VL Eng Chi,ESIT MLS China,MSIT China China,Retail Stores - IT,RotationProgramChina,SESIT Disc&Collab CH,SESIT EntPlatSv GACH,SM BGIT China,SMIT Online Eng @ China,SPG Vendor Mgmt BJ,US-RE&F CHINA
+S#ECIT china=ECIT COGS VL Eng Chi
+S#ECIT=ecit china
+S#ECIT us= ECIT COGS - DOMO-US,ECIT COGS - OPS SD-US,ECIT COGS -ECIT Arch-US,ECIT COGS -ECIT Mgmt-US,ECIT COGS -MBS SE-US,ECIT COGS -MBS/OPS-M-US,ECIT COGS -VL Eng-US
+S#ECIT india=ECIT COGS - OEM Eng - India,ECIT COGS -MBS Eng-Ind,ECIT COGS -VL Eng-Ind,ECIT COGS -MBS SE-Ind
+S#ECIT other=ECIT COGS -MBS Eng-Farg,ECIT COGS -MBS/OPS-Irln
+S#ECIT global=ECIT China,ECIT US,ECIT india,ecit other
+S#MSIT = MSIT china,ecit global
+S#dev=sde,sde ii,IT SDE INTERN,SENIOR SDE,SR IT SDE,prin development lead,prin development mgr,senior development lead,senior development mgr,senior sde,sr it sde
+S#tester=sdet,sdet ii,sdet lead ii,senior sdet,principal test lead,principal test manager,senior test,senior test lead
+S#intern=INTERN SE,IT PROGRAM MANAGER INTERN,IT SDE INTERN
+S#lead=prin development lead,principal test lead,sdet lead ii,senior development lead,senior test lead
+S#program manager=it program manager intern, solution management,prin program manager,principal pm manager,principal test manager,program manager,program manager 2,senior program manager
+S#vp=vp enterprise commerce it

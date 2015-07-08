@@ -1,0 +1,22 @@
+﻿2014-08-16 12:30:59.935	[Verbose]	Logger created.
+2014-08-16 12:30:59.935	[Information]	Initializing.
+2014-08-16 12:30:59.935	[Verbose]	Creating shell.
+2014-08-16 12:30:59.935	[Verbose]	Starting shell.
+2014-08-16 12:30:59.935	[Information]	Starting Lync shell.
+2014-08-16 12:30:59.951	[Verbose]	Killing Lync processes.
+2014-08-16 12:30:59.966	[Verbose]	Getting Lync client.
+2014-08-16 12:30:59.966	[Verbose]	Initializing Lync client.
+2014-08-16 12:31:00.044	[Critical]	Microsoft.Lync.Model.LyncClientException: Generic COM Exception. Code is 0x800706BE.
+   at Microsoft.Lync.Model.LyncClient.BeginInitialize_private(String clientName, String version, String clientShortName, String clientNameAbbreviation, String clientLongName, SupportedFeatures supportedFeatures, AsyncCallback communicatorClientCallback, Object state)
+   at Microsoft.Lync.Model.LyncClient.BeginInitialize(AsyncCallback callback, Object state)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncImpl(Func`3 beginMethod, Func`2 endFunction, Action`1 endAction, Object state, TaskCreationOptions creationOptions)
+   at System.Threading.Tasks.TaskFactory.FromAsync(Func`3 beginMethod, Action`1 endMethod, Object state)
+   at Microsoft.Ecit.China.Tools.EcitAssistantRobot.LyncShell.LyncShellImpl.Start() in c:\robot\EcitAssistantRobot\EcitAssistantRobot\LyncShell\LyncShellImpl.cs:line 37
+   at Microsoft.Ecit.China.Tools.EcitAssistantRobot.Program.Initialize() in c:\robot\EcitAssistantRobot\EcitAssistantRobot\Program.cs:line 68
+   at Microsoft.Ecit.China.Tools.EcitAssistantRobot.Program.Main(String[] args) in c:\robot\EcitAssistantRobot\EcitAssistantRobot\Program.cs:line 35
+2014-08-16 12:31:00.044	[Information]	Shutting down.
+2014-08-16 12:31:00.044	[Verbose]	Stopping shell.
+2014-08-16 12:31:00.060	[Information]	Stopping Lync shell.
+2014-08-16 12:31:00.060	[Verbose]	Shutting down Lync client.
+2014-08-16 12:31:00.076	[Verbose]	Killing Lync processes.
+2014-08-16 12:31:00.076	[Verbose]	Stopping logger.

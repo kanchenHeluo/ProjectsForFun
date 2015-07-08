@@ -1,0 +1,13 @@
+﻿2014-08-17 08:40:53.740	[Verbose]	Logger created.
+2014-08-17 08:40:53.740	[Information]	Initializing.
+2014-08-17 08:40:53.741	[Verbose]	Creating shell.
+2014-08-17 08:40:53.753	[Verbose]	Starting shell.
+2014-08-17 08:40:53.754	[Information]	Starting Lync shell.
+2014-08-17 08:40:53.755	[Verbose]	Killing Lync processes.
+2014-08-17 08:40:53.760	[Verbose]	Getting Lync client.
+2014-08-17 08:40:57.997	[Verbose]	Initializing Lync client.
+2014-08-17 08:40:58.037	[Verbose]	Creating robot.
+2014-08-17 08:40:58.044	[Information]	Initialized.
+2014-08-17 08:40:58.048	[Verbose]	LyncClient_StateChanged	Uninitialized->Initializing
+2014-08-17 08:40:58.070	[Verbose]	LyncClient_StateChanged	Initializing->SignedOut
+2014-08-17 08:40:58.186	[Verbose]	LyncClient_StateChanged	SignedOut->SigningIn

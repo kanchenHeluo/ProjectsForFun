@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:orientation="vertical" 
+	    android:gravity="center"
+	    android:background="@drawable/gamefirsttop_bg">
+	    
+	    <RelativeLayout
+	        android:id="@+id/rl"
+	        android:layout_weight="15"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="vertical" >
+
+	        <TextView
+				android:id="@+id/bencitiaozhan"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content" 
+				android:layout_alignParentLeft="true"
+				android:layout_margin="30dp"
+				android:text="本次挑战"
+				android:textColor="#ff000000"
+				android:textSize="15dp"
+				/>
+	        <TextView
+	            android:id="@+id/gamefirstscoreTV"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_margin="15dp"
+			    android:layout_alignParentRight="true"
+			    android:textColor="#ff000000"
+			    android:textSize="50dp" />
+	        
+	        <TextView
+	            android:id="@+id/gamefirstPaihang"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_margin="1dp"
+			    android:layout_below="@id/gamefirstscoreTV"
+			    android:gravity = "center"
+			    android:text="排行榜 "
+			    android:textColor="#ff000000"
+			    android:textSize="30dp" />
+	        <ListView
+		        android:id="@+id/gamefirsttopLV"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content" 
+		        android:layout_margin="20dp"
+		        android:layout_below="@id/gamefirstPaihang"
+			    android:cacheColorHint="#00000000">
+	        </ListView>   
+	    </RelativeLayout>
+	    <RelativeLayout
+	            android:layout_height="wrap_content"
+	            android:layout_width="fill_parent"
+	            android:layout_weight="1"
+	            android:gravity="bottom|right">
+	            <Button
+			        android:background="@drawable/default_btn_style" 
+			        android:padding="5dip"
+	                android:layout_height="wrap_content"
+	                android:layout_width="wrap_content"
+	                android:id="@+id/game1moreBTN"
+	                android:text="更多"
+	                android:layout_alignParentRight="true"
+	                />
+                <Button
+			        android:background="@drawable/default_btn_style" 
+			        android:padding="5dip"
+                    android:layout_height="wrap_content"
+	                android:layout_width="wrap_content"
+	                android:id="@+id/gamefirstBackBTN"
+	                android:text="返回"
+	                android:layout_toLeftOf="@id/game1moreBTN"
+	                />
+	        </RelativeLayout>
+	</LinearLayout>

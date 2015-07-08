@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:orientation="vertical"
+	    android:background="@drawable/gamefirstview_bg" >
+
+		<RelativeLayout
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_alignParentTop="true"
+		    android:layout_marginLeft="10dp"
+		    android:layout_marginTop="5dp" >
+
+		    <Button
+				android:background="@drawable/game1_submit_style"
+		        android:id="@+id/btnGame1Handup"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_alignParentRight="true"
+		        android:text="提交" />
+
+		    <TextView
+		        android:id="@+id/game1tv1"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_alignParentLeft="true"
+		        android:layout_alignTop="@id/btnGame1Handup"
+		        android:textColor="#ff000000"
+		        android:text="进度" />
+		    
+		    <TextView
+		        android:id="@+id/game1tv2"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_alignBottom="@id/btnGame1Handup"
+		        android:textColor="#ff000000"
+		        android:text="倒计时" />
+
+
+		    <TextView
+		        android:id="@+id/game1tv3"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_alignBottom="@id/game1tv1"
+		        android:layout_alignTop="@id/btnGame1Handup"
+		        android:layout_toRightOf="@id/game1tv1"
+		        android:layout_marginLeft="22dp"
+		        android:textColor="#ff000000"
+		        android:text="2/11" />
+
+		    <ProgressBar
+		        android:id="@+id/game1ProgressBar"
+		        style="?android:attr/progressBarStyleHorizontal"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_alignTop="@id/game1tv3"
+		        android:layout_toRightOf="@id/game1tv3" 
+		        android:progressDrawable="@drawable/processbar_style"/>
+
+		    <TextView
+		        android:id="@+id/game1lefttime"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_alignBaseline="@id/game1tv2"
+		        android:layout_alignBottom="@id/game1tv2"
+		        android:layout_toRightOf="@id/game1tv3"
+		        android:textColor="#ff000000"
+		        android:text="01:55" />
+
+		</RelativeLayout>
+	
+		<LinearLayout
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="horizontal" >
+		    <TextView 
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:id = "@+id/seqTV"
+		        android:text = "1"
+		        android:textColor="#ff000000"
+				android:layout_margin="20dp"
+		        />
+		    
+		    <RelativeLayout
+		        android:id="@+id/game1zi"
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content" 
+		        android:orientation="vertical" >
+		         <TextView 
+			        android:id = "@+id/game1tvFir"
+			        android:layout_width = "fill_parent"
+			        android:layout_height = "wrap_content"
+		        	android:textColor="#ff000000"
+			        android:textSize = "20sp"
+			        android:gravity = "center"
+		        	/>
+				<GridView
+				    android:id="@+id/game1GVFir"
+				    android:layout_width="match_parent"
+				    android:layout_height="wrap_content"
+				    android:numColumns="11"
+				    android:visibility="gone"
+				    android:horizontalSpacing="0.25dp">			    
+				</GridView>
+			    <TextView 
+			        android:id = "@+id/game1tvSec"
+			        android:layout_width = "fill_parent"
+			        android:layout_height = "wrap_content"
+		        	android:textColor="#ff000000"
+			        android:textSize = "20sp"
+			        android:gravity="center"
+			        android:layout_below = "@id/game1GVFir"
+			        />
+				<GridView
+				    android:id="@+id/game1GVSec"
+				    android:layout_width="match_parent"
+				    android:layout_height="wrap_content"
+				    android:numColumns="11"
+				    android:visibility="gone"
+				    android:layout_below = "@id/game1tvFir"
+				    android:horizontalSpacing="0.25dp"> 
+				</GridView>			        			        
+			    <TextView 
+			        android:id = "@+id/game1tvThi"
+			        android:layout_width = "fill_parent"
+			        android:layout_height = "wrap_content"
+		        	android:textColor="#ff000000"
+			        android:textSize = "20sp"
+			        android:gravity = "center"
+			        android:layout_below = "@id/game1GVSec"
+			        />
+				<GridView
+				    android:id="@+id/game1GVThi"
+				    android:layout_width="match_parent"
+				    android:layout_height="wrap_content"
+				    android:numColumns="11"
+				    android:visibility="gone"
+				    android:layout_below = "@id/game1tvSec"
+				    android:horizontalSpacing="0.25dp">  
+				</GridView>
+		    </RelativeLayout>
+	    </LinearLayout>
+	      
+		<TableLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center"
+			>  
+      		<TableRow>
+          		<Button
+            		android:id="@+id/gab11"
+					style="?android:attr/buttonStyleSmall"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:background="@drawable/game1_hint_btn_style"
+					android:textColor="#ff000000"
+					android:layout_weight="1"
+          			/>
+				<Button
+					android:id="@+id/gab12"
+					style="?android:attr/buttonStyleSmall"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:background="@drawable/game1_hint_btn_style"
+					android:textColor="#ff000000"
+					android:layout_weight="1"
+          			/>
+				<Button
+					android:id="@+id/gab13"
+					style="?android:attr/buttonStyleSmall"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:background="@drawable/game1_hint_btn_style"
+					android:textColor="#ff000000"   
+					android:layout_weight="1"
+		            />
+				<Button
+		            android:id="@+id/gab14"
+		            style="?android:attr/buttonStyleSmall"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:background="@drawable/game1_hint_btn_style"
+					android:textColor="#ff000000"
+		            android:layout_weight="1"
+		            />
+			</TableRow>
+			<TableRow>
+				<Button
+		            android:id="@+id/gab21"
+		            style="?android:attr/buttonStyleSmall"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:background="@drawable/game1_hint_btn_style"
+					android:textColor="#ff000000"
+		            android:layout_weight="1"
+		            />
+		        <Button
+		            android:id="@+id/gab22"
+		            style="?android:attr/buttonStyleSmall"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:background="@drawable/game1_hint_btn_style"
+					android:textColor="#ff000000"
+		            android:layout_weight="1"
+		            />
+				<Button
+		            android:id="@+id/gab23"
+		            style="?android:attr/buttonStyleSmall"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:background="@drawable/game1_hint_btn_style"
+					android:textColor="#ff000000"
+					android:layout_weight="1"
+		            />
+				<Button
+		            android:id="@+id/gab24"
+		            style="?android:attr/buttonStyleSmall"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:background="@drawable/game1_hint_btn_style"
+					android:textColor="#ff000000"   
+		            android:layout_weight="1"
+		         	/>
+			</TableRow>
+			<TableRow>
+				<Button
+					android:id="@+id/gab31"
+					style="?android:attr/buttonStyleSmall"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:background="@drawable/game1_hint_btn_style"
+					android:textColor="#ff000000"
+					android:layout_weight="1"
+		            />
+				<Button
+					android:id="@+id/gab32"
+					style="?android:attr/buttonStyleSmall"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:background="@drawable/game1_hint_btn_style"
+					android:textColor="#ff000000"
+					android:layout_weight="1"
+					/>
+				<Button
+					android:id="@+id/gab33"
+					style="?android:attr/buttonStyleSmall"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:background="@drawable/game1_hint_btn_style"
+					android:textColor="#ff000000"
+					android:layout_weight="1"
+					/>
+				<Button
+					android:id="@+id/gab34"
+					style="?android:attr/buttonStyleSmall"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:background="@drawable/game1_hint_btn_style"
+					android:textColor="#ff000000"
+					android:layout_weight="1"
+					/>
+			</TableRow>
+			<TableRow>
+				<Button
+	                android:id="@+id/gab41"
+	                style="?android:attr/buttonStyleSmall"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+	                android:background="@drawable/game1_hint_btn_style"
+	                android:textColor="#ff000000"
+	                android:layout_weight="1"
+		            />
+				<Button
+	                android:id="@+id/gab42"
+	                style="?android:attr/buttonStyleSmall"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:textColor="#ff000000"
+	                android:background="@drawable/game1_hint_btn_style"
+	                android:layout_weight="1"
+		            />
+				<Button
+	                android:id="@+id/gab43"
+	                style="?android:attr/buttonStyleSmall"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:textColor="#ff000000"
+	                android:background="@drawable/game1_hint_btn_style"
+	                android:layout_weight="1"
+		            />
+				<Button
+	                android:id="@+id/gab44"
+	                style="?android:attr/buttonStyleSmall"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:textColor="#ff000000"
+	                android:background="@drawable/game1_hint_btn_style"
+	                android:layout_weight="1"   
+		            />
+			</TableRow>          
+		</TableLayout>
+
+		<RelativeLayout
+			    android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:orientation="horizontal"
+				android:layout_alignParentBottom="true"
+				
+	            >
+			<Button
+                 android:id="@+id/btnGame1Next"
+                 android:layout_height="wrap_content"
+                 android:layout_width="wrap_content"
+                 android:layout_alignParentRight="true"
+                 android:layout_alignParentBottom="true"
+                 android:background="@drawable/test_forward_bg"
+                 android:paddingBottom="5dp"
+	             />
+			<Button
+                 android:id="@+id/btnGame1Last"
+                 android:layout_height="wrap_content"
+                 android:layout_width="wrap_content"
+                 android:layout_toLeftOf="@id/btnGame1Next"
+                 android:layout_alignParentBottom="true"
+                 android:background="@drawable/test_back_bg"
+                 android:paddingBottom="5dp"
+	             />
+
+			<Button
+	            android:id="@+id/btnGame1Bomb"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentLeft="true"
+	            android:layout_alignParentBottom="true"
+	            android:background="@drawable/game1_bomb"
+	            android:paddingBottom="5dp"
+	            />
+
+			<ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/btnGame1Bomb"
+                android:layout_alignRight="@+id/btnGame1Bomb"
+                android:layout_alignParentBottom="true"
+                android:src="@drawable/game1_one" 
+                android:paddingBottom="5dp"
+                />
+		            
+			
+		</RelativeLayout>
+	</LinearLayout>

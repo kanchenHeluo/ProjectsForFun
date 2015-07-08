@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical" 
+	    android:background="@drawable/menu_bg" 
+	    >
+		 <RelativeLayout
+			    android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:orientation="horizontal"
+				android:paddingLeft="50dp"
+				android:layout_weight="15"
+	            >
+	            
+		    <TextView
+		        android:id="@+id/duiqi"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_centerInParent="false"
+		        android:layout_centerVertical="true"
+		        android:paddingLeft="20dp"
+		        android:text="          " >
+		        
+		    </TextView>
+
+	       <Button
+	           android:id="@+id/game1_button"
+	           android:layout_width="wrap_content"
+	           android:layout_height="wrap_content"
+	           android:layout_alignLeft="@id/duiqi"
+	           android:layout_below="@id/duiqi"
+	           android:layout_margin="10dp"
+	           android:layout_weight="1"
+	           android:background="@drawable/welcome_game1_btn_bg"
+	           android:gravity="center"
+	           android:paddingLeft="20dip"
+	           android:text="  七步成诗"
+	           android:textSize="20sp" />
+
+	        <Button
+	            android:id="@+id/exam_button"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_above="@id/game1_button"
+	            android:layout_alignLeft="@id/duiqi"
+	            android:layout_weight="1"
+	            android:background="@drawable/welcome_test_btn_bg"
+	            android:gravity="center"
+	            android:paddingLeft="20dip"
+	            android:layout_margin="10dp"
+	            android:text="  小试牛刀"
+	            android:textSize="20sp" />
+
+	       <Button
+	           android:id="@+id/study_button"
+	           android:layout_width="wrap_content"
+	           android:layout_height="wrap_content"
+	           android:layout_above="@id/exam_button"
+	           android:layout_alignLeft="@id/duiqi"
+	           android:layout_weight="1"
+	           android:background="@drawable/welcome_study_btn_bg"
+	           android:gravity="center"
+	           android:paddingLeft="20dip"
+	           android:layout_margin="10dp"
+	           android:paddingTop="30dip"
+	           android:text="  开卷有益"
+	           android:textSize="20sp" />
+		    
+		    <Button
+		        android:id="@+id/game2_button"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_alignLeft="@id/duiqi"
+		        android:layout_below="@id/game1_button"
+		        android:layout_weight="1"
+		        android:background="@drawable/welcome_game2_btn_bg"
+		        android:gravity="center"
+		        android:paddingLeft="20dip"
+		        android:layout_margin="10dp"
+		        android:text="  纵横诗海"
+		        android:textSize="20sp" />
+		    
+	    </RelativeLayout>
+	    
+	    <RelativeLayout
+			    android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:orientation="horizontal"
+				android:padding="15dp"
+				android:layout_alignParentBottom = "true"
+				
+	            >
+		    <Button 
+		        android:id = "@+id/help_button"
+		        android:layout_width = "wrap_content"
+		        android:layout_height = "wrap_content"
+		        android:text = "帮助"
+		        android:padding="5dip"
+		        android:layout_alignParentRight="true"
+		        android:background="@drawable/default_btn_style" 
+		        />
+		    <Button 
+		        android:id = "@+id/about_button"
+		        android:layout_width = "wrap_content"
+		        android:layout_height = "wrap_content"
+		        android:text = "关于"
+		        android:padding="5dip"
+		        android:layout_toLeftOf="@id/help_button"
+		        android:background="@drawable/default_btn_style"
+		        />
+	    
+	     </RelativeLayout>
+	</LinearLayout>

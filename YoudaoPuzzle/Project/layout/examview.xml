@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:gravity="top"
+	    android:orientation="vertical" 
+	    android:background="@drawable/examview_bg">
+
+	    <RelativeLayout
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content" 
+		    android:layout_weight="10"
+		    >
+	    
+			<TableLayout
+			    android:id="@+id/examChooseView"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content" 
+			    android:paddingLeft="15dp"
+			    android:paddingTop="20dp"
+			    android:layout_margin="5dp">
+			    
+			    <TableRow
+			        android:id="@+id/examRange"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content" >
+	
+			        <TextView
+			            android:id="@+id/examRangeText"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:textColor="#ff000000"
+			            android:text="范围  " />
+	
+			        <ToggleButton
+			            android:id="@+id/examstudied"
+			            style="?android:attr/buttonStyleSmall"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:textColor="#ff000000"
+			            android:textOn="已学"
+			            android:textOff="已学"
+			            android:background="@drawable/dynasty_btn_bg"
+			            android:padding="5dip"/>
+	
+			        <ToggleButton
+			            android:id="@+id/examRandom"
+			            style="?android:attr/buttonStyleSmall"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:textColor="#ff000000"
+			            android:textOn="全部"
+			            android:textOff="全部"
+			            android:background="@drawable/dynasty_btn_bg"
+			            android:padding="5dip"/>
+			    </TableRow>
+		</TableLayout>
+	    <TableLayout
+	            android:id="@+id/examDynastyView"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content" 
+			    android:layout_below="@id/examChooseView"
+			    android:paddingLeft="15dp"
+			    android:layout_margin="5dp">    
+	
+			    <TableRow
+			        android:id="@+id/studyPoemDynasityTR1"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content" >
+	
+			        <TextView
+			            android:id="@+id/Dynasity"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:textColor="#ff000000"
+			            android:text="朝代  " />
+			        
+	
+			        <ToggleButton
+			            android:id="@+id/btnTang"
+			            style="?android:attr/buttonStyleSmall"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:textColor="#ff000000"
+			            android:textOn="唐"
+			            android:textOff="唐"
+			            android:background="@drawable/dynasty_btn_bg"
+			            android:padding="5dip"/>
+	
+			        <ToggleButton
+			            android:id="@+id/btnSong"
+			            style="?android:attr/buttonStyleSmall"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:textColor="#ff000000"
+			            android:textOn="宋"
+			            android:textOff="宋" 
+			            android:background="@drawable/dynasty_btn_bg"
+			            android:padding="5dip"/>
+	
+			        <ToggleButton
+			            android:id="@+id/btnYuan"
+			            style="?android:attr/buttonStyleSmall"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:textColor="#ff000000"
+			            android:textOn="元"
+			            android:textOff="元"
+			            android:background="@drawable/dynasty_btn_bg"
+			            android:padding="5dip"/>
+	
+			        <ToggleButton
+			            android:id="@+id/btnMing"
+			            style="?android:attr/buttonStyleSmall"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:textColor="#ff000000"
+			            android:textOn="明"
+			            android:textOff="明" 
+			            android:background="@drawable/dynasty_btn_bg"
+			            android:padding="5dip"/>
+			        <ToggleButton
+			            android:id="@+id/btnQing"
+			            style="?android:attr/buttonStyleSmall"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:textColor="#ff000000"
+			            android:textOn="清"
+			            android:textOff="清" 
+			            android:background="@drawable/dynasty_btn_bg"
+			            android:padding="5dip"/>
+			        
+			        <ToggleButton
+			            android:id="@+id/btnBeforeTang"
+			            style="?android:attr/buttonStyleSmall"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:textColor="#ff000000"
+			            android:textOn="唐前"
+			            android:textOff="唐前"
+			            android:background="@drawable/dynasty_btn_bg"
+			            android:padding="5dip"/>
+			        
+			        <ToggleButton
+			            android:id="@+id/btnAfterQing"
+			            style="?android:attr/buttonStyleSmall"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:textColor="#ff000000"
+			            android:textOn="清后" 
+			            android:textOff="清后" 
+			            android:background="@drawable/dynasty_btn_bg"
+			            android:padding="5dip"/>
+			    </TableRow>
+			</TableLayout>
+	        <TableLayout
+	            android:id="@+id/examAuthorView"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content" 
+			    android:layout_below="@id/examDynastyView"
+			    android:paddingLeft="15dp"
+			    android:layout_margin="5dp"> 
+	
+			    <TableRow
+			        android:id="@+id/examPoemAnthorTR"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content" >
+	
+			        <TextView
+			            android:id="@+id/examAuthorText"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:textColor="#ff000000"
+			            android:text="作者  " />
+	
+			        <Spinner
+				        android:background="@drawable/default_spinner_style" 
+			        	android:padding="5dip"
+			            android:id="@+id/examAuthor"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content" />
+			    </TableRow>
+			    <TableRow
+			        android:id="@+id/examPoemStyleTR"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content" >
+	
+			        <TextView
+			            android:id="@+id/examStyleText"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:textColor="#ff000000"
+			            android:text="体裁  " />
+	
+			        <Spinner
+			        	android:background="@drawable/default_spinner_style" 
+		        		android:padding="5dip"
+			            android:id="@+id/examStyle"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content" />
+	
+			    </TableRow>
+		    </TableLayout>
+	        <TableLayout
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content" 
+			    android:layout_below="@id/examAuthorView"
+			    android:paddingLeft="15dp"
+			    android:layout_margin="5dp"> 
+			    
+			     <TableRow
+			        android:id="@+id/examPoemDynasityTR2"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content" >
+	
+			        <TextView
+			            android:id="@+id/examNum"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:textColor="#ff000000"
+			            android:text="题数  " 
+			            />
+			        
+	                <ToggleButton
+			            android:id="@+id/exambtn10"
+			            style="?android:attr/buttonStyleSmall"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:textOn="10"
+			            android:textOff="10" 
+			            android:background="@drawable/dynasty_btn_bg"
+			            android:padding="5dip"/>
+	                <ToggleButton
+			            android:id="@+id/exambtn20"
+			            style="?android:attr/buttonStyleSmall"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:textOn="20"
+			            android:textOff="20" 
+			            android:background="@drawable/dynasty_btn_bg"
+			            android:padding="5dip"/>
+	                <ToggleButton
+			            android:id="@+id/exambtn30"
+			            style="?android:attr/buttonStyleSmall"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:textOn="30" 
+			            android:textOff="30"
+			            android:background="@drawable/dynasty_btn_bg"
+			            android:padding="5dip"/>
+	                <ToggleButton
+			            android:id="@+id/exambtn50"
+			            style="?android:attr/buttonStyleSmall"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:textOn="50"
+			            android:textOff="50"
+			            android:background="@drawable/dynasty_btn_bg"
+			            android:padding="5dip" />
+			    </TableRow>		   
+			</TableLayout>
+		</RelativeLayout>
+
+		<RelativeLayout
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content" 
+		    android:layout_weight="1"
+		    android:layout_alignParentBottom="true">
+		    <Button
+			    android:id="@+id/startExam"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_below="@id/examChooseView"
+			    android:layout_alignParentRight="true"
+	            android:background="@drawable/test_start"
+	            android:paddingBottom="10dip"
+	            android:paddingRight="20dip"
+			    android:text="开始测试" 
+			    />
+		</RelativeLayout>
+	</LinearLayout>

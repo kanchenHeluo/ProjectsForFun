@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:gravity="center"
+	    android:orientation="vertical" 
+	    android:background="@drawable/studypoemview_bg">>
+		<RelativeLayout
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_weight="15"
+		    android:orientation="vertical" >
+		     
+		    <ListView
+			    android:id="@+id/studyPoemContentLV"
+			    android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_below="@id/studyPoemAuthorTV" 
+			    android:cacheColorHint="#00000000">
+			</ListView>
+			
+		
+		    
+		</RelativeLayout>
+
+		<RelativeLayout
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" 
+		    android:layout_weight="1"
+		    android:layout_alignParentBottom="true"
+		    android:gravity="bottom|right">
+		    
+		    
+		    <Button
+		        android:background="@drawable/default_btn_style" 
+		        android:padding="5dip"
+			    android:id="@+id/AddToAlbum"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_below="@id/appreciationTV"
+			    android:layout_alignParentRight="true"
+			    android:text="添加到专辑" />
+		    <Button
+		        android:background="@drawable/default_btn_style" 
+		        android:padding="5dip"
+			    android:id="@+id/back"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_below="@id/appreciationTV"
+			    android:layout_toLeftOf="@id/AddToAlbum"
+			    android:text="返回" />
+		    
+		</RelativeLayout>
+		
+	 
+	 </LinearLayout>

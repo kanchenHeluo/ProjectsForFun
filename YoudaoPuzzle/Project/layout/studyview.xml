@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:gravity="top"
+	    android:orientation="vertical" 
+	    android:background="@drawable/studyview_bg">
+
+		<!-- dynasty -->
+		<TableLayout
+		    android:id="@+id/studyPoemChooseTable"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content" 
+		    android:paddingLeft="15dp"
+		    android:paddingTop="20dp"
+		    android:layout_margin="5dp">
+
+		    <TableRow
+		        android:id="@+id/studyPoemDynasityTR1"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content" 
+		        >
+
+		        <TextView
+		            android:id="@+id/Dynasity"
+		            android:layout_marginRight="3dip"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:textColor="#ff000000"
+		            android:text="朝代" />
+		        
+		        <ToggleButton
+		            android:id="@+id/btnBeforeTang"
+		            style="?android:attr/buttonStyleSmall"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:background="@drawable/dynasty_btn_bg"
+		            android:padding="5dip"
+		            android:textOn="唐前"
+		            android:textOff="唐前" />
+
+		        <ToggleButton
+		            android:id="@+id/btnTang"
+		            style="?android:attr/buttonStyleSmall"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:background="@drawable/dynasty_btn_bg"
+		            android:padding="5dip"
+		            android:textOn="唐"
+		            android:textOff="唐" />
+
+		        <ToggleButton
+		            android:id="@+id/btnSong"
+		            style="?android:attr/buttonStyleSmall"
+		            android:background="@drawable/dynasty_btn_bg"
+		            android:padding="5dip"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:textOn="宋"
+		            android:textOff="宋" />
+
+		        <ToggleButton
+		            android:id="@+id/btnYuan"
+		            style="?android:attr/buttonStyleSmall"
+		            android:background="@drawable/dynasty_btn_bg"
+		            android:padding="5dip"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:textOn="元"
+		            android:textOff="元" />
+
+		        <ToggleButton
+		            android:id="@+id/btnMing"
+		            style="?android:attr/buttonStyleSmall"
+		            android:background="@drawable/dynasty_btn_bg"
+		            android:padding="5dip"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:textOn="明"
+		            android:textOff="明"  />
+		        <ToggleButton
+		            android:id="@+id/btnQing"
+		            style="?android:attr/buttonStyleSmall"
+		            android:background="@drawable/dynasty_btn_bg"
+		            android:padding="5dip"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:textOn="清"
+		            android:textOff="清" />
+		        
+		        <ToggleButton
+		            android:id="@+id/btnAfterQing"
+		            style="?android:attr/buttonStyleSmall"
+		            android:background="@drawable/dynasty_btn_bg"
+		            android:padding="5dip"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:textOn="清后"
+		            android:textOff="清后" />
+
+		    </TableRow>		    
+		</TableLayout>
+		<!-- author -->
+		<TableLayout
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content" 
+		    android:paddingLeft="15dp"
+		    android:layout_margin="5dp">
+
+		    <TableRow
+		        android:id="@+id/studyPoemAnthorTR"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content" >
+
+		        <TextView
+		            android:id="@+id/studyAuthorText"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:textColor="#ff000000"
+		            android:text="作者" />
+
+		        <Spinner
+			        android:background="@drawable/default_spinner_style" 
+		        	android:padding="5dip"
+		            android:id="@+id/studyAuthor"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content" />
+
+		    </TableRow>
+		</TableLayout>
+		<!-- style -->
+		<TableLayout
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content" 
+		    android:paddingLeft="15dp"
+		    android:layout_margin="5dp">
+
+		    <TableRow
+		        android:id="@+id/studyPoemStyleTR"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content" >
+
+		        <TextView
+		            android:id="@+id/studyStyleText"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:textColor="#ff000000"
+		            android:text="体裁" />
+
+		        <Spinner
+			        android:background="@drawable/default_spinner_style" 
+			        android:padding="5dip"
+		            android:id="@+id/studyStyle"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content" />
+
+		    </TableRow>
+		</TableLayout>
+		<!-- inputBox & buttons -->
+		<RelativeLayout
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content" 
+		    android:paddingLeft="15dp"
+		    android:layout_margin="5dp">
+		    
+		    
+		    <EditText
+		    android:id="@+id/StudyPoemNameEdit"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:ems="10" >
+
+		   </EditText>
+		
+		    <Button
+		        android:background="@drawable/default_btn_style" 
+		        android:padding="5dip"
+			    android:id="@+id/studiedList"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_below="@id/StudyPoemNameEdit"
+			    android:layout_alignParentRight="true"
+			    android:text="已学专辑" />
+
+
+		   <Button
+		        android:background="@drawable/default_btn_style" 
+		        android:padding="5dip"
+			    android:id="@+id/randomChoose"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_below="@id/StudyPoemNameEdit"
+			    android:layout_toLeftOf="@id/studiedList"
+			    android:text="随机选择" />
+		   
+		</RelativeLayout>
+
+		<!-- listview -->
+		<ListView
+		    android:id="@+id/studiedListView"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content" 
+		    android:cacheColorHint="#00000000"
+		    android:paddingLeft="10dp">
+		</ListView>
+
+	    
+	</LinearLayout>

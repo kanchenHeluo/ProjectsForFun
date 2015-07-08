@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:orientation="vertical" 
+	    android:gravity="center"
+	    android:background="@drawable/gamescdview_bg">
+	    <RelativeLayout
+	        android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:gravity="top"
+		    android:layout_weight="1">
+	    
+		<RelativeLayout
+		    android:id="@+id/game2rll"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content" 
+		    android:layout_alignParentTop="true"
+		    android:gravity="top"
+		    
+		   			  
+		    >
+		    <TextView
+			    android:id="@+id/game2Heng"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_alignParentLeft="true"
+			    android:text="横"
+			    android:textSize="20dp"
+			    android:textColor="@color/black"
+			    android:padding="10dp" />
+
+		   <TextView
+				android:id="@+id/game2TishiHengTV"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_toRightOf="@id/game2Heng"
+				android:layout_alignBaseline="@id/game2Heng"
+				android:textSize="15dp"
+				android:textColor="@color/black"
+				android:layout_margin="5dp"
+				android:singleLine="true"
+				android:ellipsize="marquee"
+				android:marqueeRepeatLimit="marquee_forever"
+				android:focusableInTouchMode="true"
+		        />
+   
+		    <TextView
+			    android:id="@+id/game2Zong"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_below="@id/game2Heng"
+			    android:layout_alignLeft = "@id/game2Heng"
+			    android:text="纵" 
+			    android:textColor="@color/black"
+			    android:textSize="20dp"
+			    android:padding="10dp"/>
+		   
+		    
+		     <TextView
+				android:id="@+id/game2TishiZongTV"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_toRightOf="@id/game2Zong"
+				android:layout_alignBaseline="@id/game2Zong"
+				android:textColor="@color/black"
+				android:textSize="15dp"
+				android:layout_margin="5dp"
+				android:ellipsize="marquee"
+				android:singleLine="true"
+				android:marqueeRepeatLimit="marquee_forever"
+				android:focusableInTouchMode="true"/>
+		    </RelativeLayout>
+
+		    <GridView
+			    android:id="@+id/game2GV"
+			    android:layout_width="match_parent"
+			    android:layout_height="match_parent"
+			    android:numColumns="12"
+			    android:background="@color/black"
+			    android:verticalSpacing="1dp"
+			    android:horizontalSpacing="1dp"
+			    android:layout_below="@id/game2rll"
+				android:layout_margin="5dp"
+			    
+			    >  
+			</GridView>
+
+		</RelativeLayout>
+		
+	    <RelativeLayout
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content" 
+		    android:layout_weight="13"
+		    
+		    android:layout_alignParentBottom="true">
+		    <Button
+		        android:background="@drawable/default_btn_style" 
+		        
+		        android:id="@+id/game2BackBTN"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_alignParentRight="true"
+		        android:layout_alignParentBottom="true"
+		        android:text="返回"
+		        />
+		    <Button
+		        android:background="@drawable/default_btn_style" 
+		        
+		        android:id="@+id/game2HandupBTN"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_toLeftOf="@id/game2BackBTN"
+		         android:layout_alignParentBottom="true"
+		        android:text="提交"
+		        />
+		    
+		    <Button
+		        android:background="@drawable/default_btn_style" 
+		        
+		        android:id="@+id/game2fillBTN"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_toLeftOf="@id/game2HandupBTN"
+		         android:layout_alignParentBottom="true"
+		        android:text="填写"
+		        />
+		    
+		    <Button
+		        android:background="@drawable/default_btn_style" 
+		        
+		        android:id="@+id/game2NextBTN"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_alignParentLeft="true"
+		         android:layout_alignParentBottom="true"
+		        android:text="下一题"
+		        />
+		    </RelativeLayout>
+	</LinearLayout>

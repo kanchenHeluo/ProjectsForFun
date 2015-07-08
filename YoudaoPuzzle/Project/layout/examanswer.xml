@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:orientation="vertical" 
+	    android:gravity="center"
+	    android:background="@drawable/examanswer_bg">
+	    <RelativeLayout
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" 
+		    android:layout_weight="10">
+
+		    <TextView
+		        android:id="@+id/examScoreTV"
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:layout_alignParentRight="true"
+		        android:layout_alignParentTop="true"
+		        android:gravity="top|right"
+		        android:textColor="#ff000000"
+		        android:textSize="30sp" 
+		        />
+ 
+	       <ListView
+			    android:id="@+id/examAnswerLV"
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_below="@id/examScoreTV"
+			    android:cacheColorHint="#00000000" >
+			</ListView>
+		</RelativeLayout>	
+	    <RelativeLayout
+	        android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" 
+		    android:gravity = "bottom|right"
+		    android:layout_weight="1">
+	       <Button
+	            android:id="@+id/examansbackbtn"
+	            android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="回退"
+		        android:padding="5dip"
+		    	android:layout_alignParentRight="true"
+		        android:background="@drawable/default_btn_style" 
+	            />
+	     </RelativeLayout>
+    </LinearLayout>

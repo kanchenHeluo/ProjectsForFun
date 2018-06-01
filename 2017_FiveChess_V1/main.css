@@ -1,0 +1,11 @@
+.chessmenu{
+	margin: 10px 0px 5px 50px;
+}
+.start{
+	float: left;
+}
+.result{
+	display: none;
+	color: red;
+	margin-left: 10px;
+}
